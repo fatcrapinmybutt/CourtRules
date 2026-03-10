@@ -1,0 +1,50 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                              SUBPOENA
+                    DUCES TECUM / AD TESTIFICANDUM
+                    (MCR 2.506)
+
+TO: {{subpoena_recipient}}
+    {{recipient_address}}
+
+    YOU ARE COMMANDED to appear at the time and place below:
+
+    DATE:       {{hearing_date}}
+    TIME:       {{hearing_time}}
+    PLACE:      {{hearing_location}}
+                ([ ] Deposition  [ ] Trial  [ ] Hearing  [ ] Grand Jury)
+
+    PURPOSE: To give testimony in the above-captioned matter.
+
+    YOU ARE ALSO COMMANDED to produce the following documents,
+    electronically stored information, or objects (if "Duces Tecum" applies):
+
+    {{documents_to_produce}}
+
+    If you fail to appear as commanded, you may be held in contempt of court.
+    (MCR 2.506(D))
+
+    This Subpoena is issued at the request of {{issuing_party}}.
+
+ISSUED: {{filing_date}}
+
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{issuing_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+NOTE: A person served with a subpoena may move to quash or modify the
+subpoena if it requires unreasonable or oppressive production. MCR 2.506.
+────────────────────────────────────────────────────────────────────────────

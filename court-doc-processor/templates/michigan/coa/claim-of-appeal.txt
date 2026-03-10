@@ -1,0 +1,66 @@
+STATE OF MICHIGAN
+IN THE COURT OF APPEALS
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          COA Case No. {{coa_case_number}}
+                                            LC Case No. {{lower_court_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+                    CLAIM OF APPEAL
+                    (MCR 7.204)
+
+TO: Clerk of the Michigan Court of Appeals
+
+    Plaintiff-Appellant {{plaintiff_name}} claims an appeal from the
+    {{order_type}} entered in the above-captioned matter by the Honorable
+    {{judge_name}}, {{county}} County Circuit Court, on {{order_entry_date}},
+    as follows:
+
+1.  JURISDICTIONAL BASIS.
+    This is an appeal of right pursuant to MCR 7.203(A)(1) from a final
+    judgment/order of the circuit court.  (OR: This is an appeal of right
+    pursuant to MCR 7.203(A)(___): {{jurisdiction_basis}}.)
+
+2.  NATURE OF ACTION.
+    This is a {{case_type}} action.  The final judgment was entered on
+    {{order_entry_date}}.
+
+3.  ISSUES TO BE RAISED ON APPEAL.
+    a.  {{issue_1}}
+    b.  {{issue_2}}
+    c.  {{issue_3}}
+
+4.  TRIAL COURT.  {{county}} County Circuit Court, Case No.
+    {{lower_court_case_number}}, Judge {{judge_name}}.
+
+5.  TRANSCRIPT.  Appellant has ordered / will order the transcript of
+    {{transcript_description}} from {{court_reporter_name}} within 7 days
+    as required by MCR 7.204(F).  [OR: No transcript is required because
+    {{no_transcript_reason}}.]
+
+6.  FEES.  The filing fee of $375.00 is enclosed / has been paid.
+    [OR: Appellant has filed/is filing an Application to Waive Fees.]
+
+    WHEREFORE, Appellant requests that this Court docket this appeal and
+    assign a COA case number.
+
+                                        Respectfully submitted,
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff-Appellant
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        {{attorney_email}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+NOTE: This Claim of Appeal must be filed within 21 days of entry of the
+final order in the trial court.  MCR 7.204(A)(1).  A copy must be filed
+with the trial court clerk and served on all parties simultaneously.
+────────────────────────────────────────────────────────────────────────────

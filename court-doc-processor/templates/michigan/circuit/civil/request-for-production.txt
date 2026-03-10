@@ -1,0 +1,63 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+   PLAINTIFF'S FIRST REQUEST FOR PRODUCTION OF DOCUMENTS
+                (MCR 2.310)
+
+    Pursuant to MCR 2.310, Plaintiff {{plaintiff_name}} hereby requests that
+    Defendant {{defendant_name}} produce the following documents for
+    inspection and copying within 28 days of service, at the offices of
+    {{attorney_firm}}, {{attorney_address}}, or at such other place and time
+    as mutually agreed.
+
+                        DEFINITIONS AND INSTRUCTIONS
+
+    "Document" includes originals and non-identical copies of any writing,
+    recording, photograph, electronic mail, text message, or other data.
+    "You" or "Your" refers to Defendant, its agents, representatives, and
+    employees.  Produce each document in its entirety, including attachments.
+
+                     DOCUMENTS TO BE PRODUCED
+
+REQUEST NO. 1:
+    All documents relating to {{document_request_1}}.
+
+REQUEST NO. 2:
+    All communications between You and {{plaintiff_name}} from
+    {{relevant_start_date}} to the present.
+
+REQUEST NO. 3:
+    All contracts, agreements, or understandings between the parties relating
+    to {{document_request_3}}.
+
+REQUEST NO. 4:
+    All documents that You intend to introduce as exhibits at trial.
+
+REQUEST NO. 5:
+    {{document_request_5}}
+
+REQUEST NO. 6:
+    All financial records relating to {{document_request_6}}.
+
+REQUEST NO. 7:
+    {{document_request_7}}
+
+REQUEST NO. 8:
+    All insurance policies or agreements that may provide coverage for any
+    claim asserted in this action.  MCR 2.302(B)(2).
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

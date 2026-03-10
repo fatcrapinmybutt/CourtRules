@@ -1,0 +1,83 @@
+STATE OF MICHIGAN
+IN THE SUPREME COURT
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          SC Case No. {{sc_case_number}}
+                                            COA Case No. {{coa_case_number}}
+                                            LC Case No. {{lower_court_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+         APPLICATION FOR LEAVE TO APPEAL
+         TO THE MICHIGAN SUPREME COURT
+         (MCR 7.302; MCR 7.305)
+
+TO: Clerk of the Michigan Supreme Court
+
+    Pursuant to MCR 7.302, {{plaintiff_name}} applies for leave to appeal
+    from the judgment / order of the Michigan Court of Appeals entered on
+    {{coa_decision_date}}.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I.  QUESTIONS PRESENTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    1.  {{question_presented_1}}
+    2.  {{question_presented_2}}
+    3.  {{question_presented_3}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+II.  GROUNDS FOR GRANTING LEAVE (MCR 7.302(D))
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    [ ] The COA decision conflicts with a Michigan Supreme Court decision
+    [ ] The COA decision conflicts with another COA published opinion
+    [ ] The issue involves a significant question of public interest
+    [ ] There has been a substantial departure from law
+    [ ] The issue involves a significant constitutional question
+    [ ] Other: {{other_leave_grounds}}
+
+    Explanation: {{leave_grounds_explanation}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+III.  STATEMENT OF FACTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{statement_of_facts}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IV.  ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+A.  {{argument_heading_a}}
+
+    {{argument_a_text}}
+
+B.  {{argument_heading_b}}
+
+    {{argument_b_text}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+V.  APPENDIX (Attached)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Exhibit A:  COA Opinion ({{coa_decision_date}})
+    Exhibit B:  Trial Court Judgment/Order ({{order_entry_date}})
+    Exhibit C:  COA Docket
+
+    WHEREFORE, Applicant requests that the Supreme Court grant leave to appeal.
+
+                                        Respectfully submitted,
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Applicant
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+DEADLINE: Must be filed within 56 days of COA decision in civil cases;
+56 days in criminal cases.  Delayed application within 6 months with
+good cause.  MCR 7.305(C)(2).
+────────────────────────────────────────────────────────────────────────────

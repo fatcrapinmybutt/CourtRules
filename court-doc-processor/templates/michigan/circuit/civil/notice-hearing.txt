@@ -1,0 +1,43 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                          NOTICE OF HEARING
+
+TO ALL PARTIES AND THEIR COUNSEL OF RECORD:
+
+PLEASE TAKE NOTICE that {{moving_party}} has scheduled the following matter
+for hearing before the Honorable {{judge_name}}:
+
+    MATTER:     {{motion_subject}}
+
+    DATE:       {{hearing_date}}
+
+    TIME:       {{hearing_time}}
+
+    LOCATION:   {{hearing_location}}
+                {{county}} County Circuit Court
+                {{court_address}}
+
+A copy of the Motion and supporting Brief is being served
+contemporaneously with this Notice.
+
+                                        Respectfully submitted,
+
+                                        {{attorney_firm}}
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

@@ -1,0 +1,60 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+PEOPLE OF THE STATE OF MICHIGAN,
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+         MOTION TO DISMISS
+         AND BRIEF IN SUPPORT
+         (MCR 6.110; MCL 766.13)
+
+    NOW COMES Defendant {{defendant_name}}, by and through counsel, and moves
+    to dismiss the charges against Defendant.
+
+                            GROUNDS FOR DISMISSAL
+
+    [ ] Insufficient evidence at preliminary examination to bind over
+    [ ] Speedy trial violation (MCR 6.004; MCL 768.1; Barker v Wingo)
+    [ ] Brady violation (Brady v Maryland, 373 US 83 (1963))
+    [ ] Selective prosecution
+    [ ] Double jeopardy (US Const Am V; Const 1963, Art 1, § 15)
+    [ ] Statute of limitations (MCL 767.24)
+    [ ] Jurisdiction
+    [ ] Other: {{other_dismissal_ground}}
+
+                            STATEMENT OF FACTS
+
+    {{dismissal_facts}}
+
+                               ARGUMENT
+
+I.  {{dismissal_argument_heading_1}}
+
+    {{dismissal_argument_1}}
+
+II.  {{dismissal_argument_heading_2}}
+
+    {{dismissal_argument_2}}
+
+III.  {{dismissal_argument_heading_3}}
+
+    {{dismissal_argument_3}}
+
+                              RELIEF REQUESTED
+
+    WHEREFORE, Defendant respectfully requests that this Court DISMISS
+    all charges with prejudice / without prejudice (circle applicable)
+    and enter an Order {{dismissal_relief}}.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{defendant_attorney_name}}
+                                        Attorney for Defendant
+                                        {{attorney_phone}}
+                                        Bar No. {{defendant_attorney_bar}}

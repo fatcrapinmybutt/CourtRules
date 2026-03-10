@@ -1,0 +1,58 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{petitioner_name}},
+    Petitioner,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{respondent_name}},
+    Respondent.
+____________________________________/
+
+    MOTION TO MODIFY OR TERMINATE PERSONAL PROTECTION ORDER
+    (MCR 3.310(C); MCL 600.2950(13); MCL 600.2950a(14))
+
+    {{moving_party}} moves to [ ] modify [ ] terminate the PPO entered
+    {{ppo_entry_date}} in this matter, and states:
+
+1.  The PPO was entered on {{ppo_entry_date}}, prohibiting the following
+    conduct: {{ppo_terms_summary}}.
+
+2.  GROUNDS FOR MODIFICATION / TERMINATION (check all applicable):
+    [ ] The PPO was entered without sufficient basis; specifically:
+        {{insufficient_basis_argument}}
+    [ ] Changed circumstances since entry of the PPO:
+        {{changed_circumstances}}
+    [ ] Petitioner and Respondent have reconciled and Petitioner consents
+        to termination
+    [ ] The PPO is overbroad and should be narrowed as follows:
+        {{proposed_modification}}
+    [ ] Respondent denies the allegations in the Petition; specifically:
+        {{denial_of_allegations}}
+    [ ] Other: {{other_modification_grounds}}
+
+3.  NOTICE.  This motion will be heard on {{hearing_date}} at {{hearing_time}}
+    before the Honorable {{judge_name}} at {{hearing_location}}.
+
+    NOTE: A hearing is required under MCR 3.310(C).  The PPO remains in
+    effect until a court order modifying or terminating it is entered.
+
+    WHEREFORE, {{moving_party}} requests that this Court:
+    a.  [ ] Terminate the PPO;
+    b.  [ ] Modify the PPO to provide: {{proposed_modification}};
+    c.  Grant such other relief as is just.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{defendant_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{defendant_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+VERIFICATION
+
+    _________________________________  Date: _____________
+    {{moving_party}}
+────────────────────────────────────────────────────────────────────────────

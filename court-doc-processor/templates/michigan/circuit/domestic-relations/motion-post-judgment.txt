@@ -1,0 +1,59 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+FAMILY DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+         MOTION FOR POST-JUDGMENT RELIEF
+         (MCR 3.212; MCL 552.17)
+
+    NOW COMES {{moving_party}}, by and through counsel {{plaintiff_attorney_name}},
+    and pursuant to MCR 3.212 and MCL 552.17, moves this Court for
+    post-judgment relief, and states:
+
+1.  The parties' Judgment of Divorce was entered on {{judgment_date}}.
+
+2.  {{moving_party}} seeks the following relief:
+    [ ] Modification of custody          (MCL 722.27)
+    [ ] Modification of parenting time   (MCL 722.27a)
+    [ ] Modification of child support    (MCL 552.517)
+    [ ] Modification of spousal support  (MCL 552.28)
+    [ ] Enforcement of existing order    (MCR 3.214)
+    [ ] Contempt for violation of order  (MCL 552.635)
+    [ ] Other: {{other_post_judgment_relief}}
+
+3.  BASIS FOR RELIEF:
+    a.  {{post_judgment_basis_1}}
+    b.  {{post_judgment_basis_2}}
+    c.  {{post_judgment_basis_3}}
+
+4.  EMERGENCY.  [ ] Emergency relief is needed because: {{emergency_basis}}.
+
+5.  ATTORNEY FEES.  {{moving_party}} requests attorney fees because:
+    {{attorney_fees_basis}}
+
+    WHEREFORE, {{moving_party}} requests an Order:
+    a.  {{requested_post_judgment_relief_1}}
+    b.  {{requested_post_judgment_relief_2}}
+    c.  Awarding attorney fees of ${{attorney_fee_amount}};
+    d.  Such other relief as the Court deems just.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+VERIFICATION
+    _________________________________  Date: _____________
+    {{moving_party}}
+────────────────────────────────────────────────────────────────────────────

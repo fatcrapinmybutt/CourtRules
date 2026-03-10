@@ -1,0 +1,54 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+              MOTION {{motion_type}}
+              ({{motion_subject}})
+
+    NOW COMES {{moving_party}}, by and through counsel {{plaintiff_attorney_name}},
+    and pursuant to MCR {{applicable_rule}}, respectfully moves this Honorable
+    Court for an order {{relief_sought}}, and in support states:
+
+1.  This is a {{case_type}} action filed on {{filing_date}}.
+
+2.  The basis for this motion is: {{motion_basis}}.
+
+3.  {{motion_fact_1}}
+
+4.  {{motion_fact_2}}
+
+5.  {{motion_fact_3}}
+
+6.  {{motion_fact_4}}
+
+7.  {{motion_fact_5}}
+
+8.  {{legal_argument_1}}
+
+9.  {{legal_argument_2}}
+
+10. {{opposing_party}} {{concurrence_status}} to the relief sought in this
+    motion.  (LCivR 7.1(a) / MCR 2.119)
+
+    WHEREFORE, {{moving_party}} respectfully requests that this Honorable
+    Court enter an order {{relief_sought_detail}}.
+
+                                        Respectfully submitted,
+
+                                        {{attorney_firm}}
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

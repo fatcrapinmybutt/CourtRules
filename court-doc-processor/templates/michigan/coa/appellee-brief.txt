@@ -1,0 +1,89 @@
+STATE OF MICHIGAN
+IN THE COURT OF APPEALS
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          COA Case No. {{coa_case_number}}
+                                            LC Case No. {{lower_court_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+              APPELLEE'S BRIEF ON APPEAL
+              (MCR 7.210; MCR 7.212)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TABLE OF CONTENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Index of Authorities ......................................... ii
+    Statement Regarding Oral Argument ........................... iv
+    Counter-Statement of Questions Presented ..................... 1
+    Counter-Statement of Facts ................................... 2
+    Standard of Review ........................................... 3
+    Argument ..................................................... 4
+        I.   {{counter_argument_heading_i}} ...................... 4
+        II.  {{counter_argument_heading_ii}} ..................... 7
+        III. {{counter_argument_heading_iii}} ................... 10
+    Conclusion .................................................. 13
+    Certificate of Compliance ................................... 14
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INDEX OF AUTHORITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{case_citation_1}} .......................................  {{page_ref_1}}
+    {{case_citation_2}} .......................................  {{page_ref_2}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATEMENT REGARDING ORAL ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Appellee [ ] requests  [ ] does not request  oral argument.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COUNTER-STATEMENT OF QUESTIONS PRESENTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    I.   {{counter_question_i}}
+         Appellee answers:  NO.
+
+    II.  {{counter_question_ii}}
+         Appellee answers:  NO.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COUNTER-STATEMENT OF FACTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{counter_statement_of_facts}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STANDARD OF REVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{standard_of_review}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I.  {{counter_argument_heading_i}}
+
+    {{counter_argument_i_text}}
+
+II.  {{counter_argument_heading_ii}}
+
+    {{counter_argument_ii_text}}
+
+III.  {{counter_argument_heading_iii}}
+
+    {{counter_argument_iii_text}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONCLUSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    For the foregoing reasons, Appellee {{defendant_name}} respectfully
+    requests that this Court affirm the trial court's judgment/order in
+    its entirety.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{defendant_attorney_name}}
+                                        Attorney for Defendant-Appellee
+                                        {{attorney_phone}}
+                                        Bar No. {{defendant_attorney_bar}}

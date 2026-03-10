@@ -1,0 +1,93 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+           BRIEF IN SUPPORT OF {{moving_party}}'S MOTION
+                     {{motion_subject}}
+
+────────────────────────────────────────────────────────────────────────────
+                    TABLE OF CONTENTS
+────────────────────────────────────────────────────────────────────────────
+
+    I.   Introduction ............................................. 1
+    II.  Statement of Facts ....................................... 1
+    III. Standard of Review ....................................... 2
+    IV.  Argument ................................................. 3
+         A.  {{argument_heading_a}}
+         B.  {{argument_heading_b}}
+    V.   Conclusion ............................................... 5
+
+────────────────────────────────────────────────────────────────────────────
+                  TABLE OF AUTHORITIES
+────────────────────────────────────────────────────────────────────────────
+
+Cases:
+    {{case_citation_1}} ........................................... {{page_ref_1}}
+    {{case_citation_2}} ........................................... {{page_ref_2}}
+    {{case_citation_3}} ........................................... {{page_ref_3}}
+
+Statutes & Rules:
+    MCR {{rule_citation_1}} ....................................... {{page_ref_4}}
+    MCL {{statute_citation_1}} .................................... {{page_ref_5}}
+
+────────────────────────────────────────────────────────────────────────────
+                        I.  INTRODUCTION
+────────────────────────────────────────────────────────────────────────────
+
+    {{introduction_paragraph}}
+
+────────────────────────────────────────────────────────────────────────────
+                     II.  STATEMENT OF FACTS
+────────────────────────────────────────────────────────────────────────────
+
+    {{fact_paragraph_1}}
+
+    {{fact_paragraph_2}}
+
+    {{fact_paragraph_3}}
+
+────────────────────────────────────────────────────────────────────────────
+                    III.  STANDARD OF REVIEW
+────────────────────────────────────────────────────────────────────────────
+
+    {{standard_of_review}}
+
+────────────────────────────────────────────────────────────────────────────
+                         IV.  ARGUMENT
+────────────────────────────────────────────────────────────────────────────
+
+    A.  {{argument_heading_a}}
+
+    {{argument_a_text}}
+
+    B.  {{argument_heading_b}}
+
+    {{argument_b_text}}
+
+────────────────────────────────────────────────────────────────────────────
+                        V.  CONCLUSION
+────────────────────────────────────────────────────────────────────────────
+
+    For the foregoing reasons, {{moving_party}} respectfully requests that
+    this Honorable Court grant the Motion {{motion_subject}} and enter an
+    order {{relief_sought_detail}}.
+
+                                        Respectfully submitted,
+
+                                        {{attorney_firm}}
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

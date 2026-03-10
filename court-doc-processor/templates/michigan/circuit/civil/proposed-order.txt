@@ -1,0 +1,43 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                         ORDER {{order_subject}}
+
+    At a session of said Court held in the {{county}} County Courthouse,
+    {{court_address}}, on {{hearing_date}}, before the Honorable
+    {{judge_name}}, Circuit Court Judge.
+
+    PRESENT: {{parties_present}}
+
+    This matter having come before the Court on {{moving_party}}'s Motion
+    {{motion_subject}}, the Court having reviewed the submissions of the
+    parties, having heard oral argument {{oral_argument_status}}, and being
+    otherwise fully advised in the premises;
+
+    IT IS HEREBY ORDERED that:
+
+1.  {{order_provision_1}}
+
+2.  {{order_provision_2}}
+
+3.  {{order_provision_3}}
+
+4.  {{order_provision_4}}
+
+5.  This Order shall take effect immediately upon entry.
+
+    SO ORDERED this _______ day of _____________, 20___.
+
+
+                                        _________________________________
+                                        HON. {{judge_name}}
+                                        {{county}} County Circuit Judge

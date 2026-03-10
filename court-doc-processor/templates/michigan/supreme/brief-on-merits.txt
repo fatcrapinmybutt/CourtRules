@@ -1,0 +1,100 @@
+STATE OF MICHIGAN
+IN THE SUPREME COURT
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          SC Case No. {{sc_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+              APPELLANT'S BRIEF ON MERITS
+              (Michigan Supreme Court)
+              (MCR 7.306)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TABLE OF CONTENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Index of Authorities ........................................... ii
+    Statement Regarding Oral Argument ............................. iv
+    Jurisdictional Statement ....................................... 1
+    Questions Presented ............................................ 1
+    Statement of the Case .......................................... 2
+    Standard of Review ............................................. 5
+    Argument ....................................................... 6
+        I.   {{argument_heading_i}} ................................ 6
+        II.  {{argument_heading_ii}} .............................. 12
+        III. {{argument_heading_iii}} ............................. 17
+    Conclusion ..................................................... 22
+    Certificate of Compliance ..................................... 23
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INDEX OF AUTHORITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{case_citation_1}} ...........................................  {{page_ref_1}}
+    {{case_citation_2}} ...........................................  {{page_ref_2}}
+    {{case_citation_3}} ...........................................  {{page_ref_3}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JURISDICTIONAL STATEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    The Michigan Supreme Court granted leave to appeal by order dated
+    {{sc_leave_granted_date}}.  The Court's jurisdiction is pursuant to
+    MCR 7.301(A)(1).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUESTIONS PRESENTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    I.   {{question_presented_1}}
+         Appellant answers:  YES.
+    II.  {{question_presented_2}}
+         Appellant answers:  YES.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATEMENT OF THE CASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{statement_of_facts}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STANDARD OF REVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{standard_of_review}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I.  {{argument_heading_i}}
+
+    {{argument_i_text}}
+
+II.  {{argument_heading_ii}}
+
+    {{argument_ii_text}}
+
+III.  {{argument_heading_iii}}
+
+    {{argument_iii_text}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONCLUSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    For the foregoing reasons, Appellant requests that this Court
+    {{requested_appellate_relief}}.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff-Appellant
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATE OF COMPLIANCE (MCR 7.306)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    This brief does not exceed 50 pages / 16,000 words.
+    Word count: {{word_count}}
+
+    _________________________________
+    {{plaintiff_attorney_name}}

@@ -1,0 +1,99 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+FAMILY DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+              COMPLAINT FOR DIVORCE
+           (With Minor Children of the Marriage)
+           (MCR 3.206; MCL 552.9; MCL 722.23)
+
+    Plaintiff {{plaintiff_name}} states:
+
+1.  PARTIES.  Plaintiff resides at {{plaintiff_address}}, {{county}} County,
+    Michigan.  Defendant resides at {{defendant_address}}.
+
+2.  RESIDENCY.  At least one party has been a resident of Michigan for at
+    least 180 days and of {{county}} County for at least 10 days.
+    MCL 552.9.
+
+3.  MARRIAGE.  The parties were married on {{marriage_date}}, in
+    {{marriage_location}}.
+
+4.  GROUNDS.  There has been a breakdown of the marriage relationship to the
+    extent that the objects of matrimony have been destroyed and there remains
+    no reasonable likelihood that the marriage can be preserved.  MCL 552.6.
+
+5.  MINOR CHILDREN.  The following minor children were born of or adopted
+    during the marriage:
+
+    Name                    Date of Birth      Age
+    ─────────────────────────────────────────────
+    {{child_1_name}}        {{child_1_dob}}    {{child_1_age}}
+    {{child_2_name}}        {{child_2_dob}}    {{child_2_age}}
+    {{child_3_name}}        {{child_3_dob}}    {{child_3_age}}
+
+6.  UCCJEA.  Michigan is the home state of the minor child(ren).  The UCCJEA
+    Affidavit required by MCR 3.206(A)(2)(c) is attached as Exhibit A.
+
+7.  CUSTODY.  Plaintiff requests:
+    Legal Custody:   [ ] Joint  [ ] Plaintiff  [ ] Defendant
+    Physical Custody: [ ] Joint  [ ] Plaintiff  [ ] Defendant
+    Plaintiff's requested custody arrangement: {{custody_arrangement}}
+
+8.  PARENTING TIME.  Plaintiff requests the following parenting time schedule:
+    {{parenting_time_schedule}}
+
+9.  CHILD SUPPORT.  Plaintiff requests child support be established pursuant
+    to the Michigan Child Support Formula.  MCL 552.605.
+
+10. PROPERTY.
+    a.  Real property: {{real_property_description}}
+    b.  Personal property: {{personal_property_description}}
+    c.  Financial accounts: {{financial_accounts_description}}
+    d.  Debt: {{debt_description}}
+
+11. SPOUSAL SUPPORT.  {{spousal_support_request}}
+
+12. FRIEND OF THE COURT.  This Court is requested to involve the Friend of the
+    Court pursuant to MCL 552.505.
+
+                            RELIEF REQUESTED
+
+    WHEREFORE, Plaintiff requests:
+
+    a.  A Judgment of Divorce;
+    b.  {{custody_arrangement}} of the minor children;
+    c.  Parenting time as set forth above;
+    d.  Child support per the Michigan Child Support Formula;
+    e.  An equitable division of marital property and debts;
+    f.  {{spousal_support_request_detail}};
+    g.  Attorney fees pursuant to MCL 552.13;
+    h.  Such other relief as the Court deems just and equitable.
+
+                                        Respectfully submitted,
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+VERIFICATION
+
+I declare that the statements above are true to the best of my information,
+knowledge, and belief.
+
+    _________________________________  Date: _____________
+    {{plaintiff_name}}, Plaintiff
+────────────────────────────────────────────────────────────────────────────

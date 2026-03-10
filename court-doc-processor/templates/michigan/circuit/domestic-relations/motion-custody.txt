@@ -1,0 +1,78 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+FAMILY DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+              MOTION REGARDING CUSTODY
+              (MCR 3.212; MCL 722.27; FOC Form 50 Style)
+
+    NOW COMES {{moving_party}}, by and through counsel {{plaintiff_attorney_name}},
+    and pursuant to MCR 3.212 and MCL 722.27, respectfully moves this Court
+    for an Order modifying custody of the minor children, and states:
+
+1.  The parties were divorced / have custody established by prior order on
+    {{prior_order_date}}, Case No. {{case_number}}.
+
+2.  The prior Order provides for {{current_custody_arrangement}}.
+
+3.  {{moving_party}} requests the following change: {{requested_custody_change}}.
+
+4.  PROPER CAUSE OR CHANGE OF CIRCUMSTANCES.  Since entry of the last custody
+    order, the following proper cause and/or change of circumstances has occurred
+    (Vodvarka v Grasmeyer, 259 Mich App 499 (2003)):
+
+    a.  {{change_of_circumstances_1}}
+    b.  {{change_of_circumstances_2}}
+    c.  {{change_of_circumstances_3}}
+
+5.  BEST INTERESTS OF THE CHILDREN.  Modification is in the best interests of
+    the minor children because (MCL 722.23 factors):
+
+    (a) Love/emotional ties: {{factor_a}}
+    (b) Capacity to provide guidance: {{factor_b}}
+    (c) Material needs: {{factor_c}}
+    (d) Length of stable environment: {{factor_d}}
+    (e) Permanence of family unit: {{factor_e}}
+    (f) Moral fitness: {{factor_f}}
+    (g) Mental and physical health: {{factor_g}}
+    (h) School/community record: {{factor_h}}
+    (i) Child's preference: {{factor_i}}
+    (j) Willingness to facilitate relationship: {{factor_j}}
+    (k) Domestic violence: {{factor_k}}
+    (l) Other: {{factor_l}}
+
+6.  {{established_custodial_environment_status}}
+    (Note: If an Established Custodial Environment exists, modification
+    requires clear and convincing evidence.)
+
+7.  FOC Recommendation / Report: {{foc_recommendation_status}}.
+
+    WHEREFORE, {{moving_party}} respectfully requests that this Court enter an
+    Order modifying custody to: {{requested_custody_change}}.
+
+                                        Respectfully submitted,
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+VERIFICATION
+
+I declare that the statements above are true to the best of my information,
+knowledge, and belief.
+
+    _________________________________  Date: _____________
+    {{moving_party}}
+────────────────────────────────────────────────────────────────────────────

@@ -1,0 +1,60 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+               MOTION FOR DEFAULT JUDGMENT
+               AND AFFIDAVIT IN SUPPORT
+               (MCR 2.603(B))
+
+    NOW COMES Plaintiff {{plaintiff_name}}, by and through counsel, and
+    pursuant to MCR 2.603(B), moves this Court for entry of a Default
+    Judgment against Defendant {{defendant_name}}, and in support states:
+
+1.  The Clerk entered the default of Defendant on {{default_entry_date}}.
+
+2.  As of this date, Defendant has not moved to set aside the default or
+    otherwise appeared in this action.
+
+3.  The Complaint alleges the following claim: {{cause_of_action}}.
+
+4.  The damages sought are liquidated / unliquidated (circle applicable):
+    Principal amount:         ${{principal_amount}}
+    Interest:                 ${{interest_amount}}
+    Attorney fees:            ${{attorney_fee_amount}}
+    Costs:                    ${{costs_amount}}
+    TOTAL JUDGMENT SOUGHT:    ${{total_judgment_amount}}
+
+5.  Defendant is not known to be a minor, incompetent person, or in active
+    military service.  MCR 2.603(B)(1); 50 U.S.C. § 3931.
+
+                         AFFIDAVIT OF PLAINTIFF
+
+    I, {{plaintiff_name}}, declare under penalty of perjury that the
+    following is true and correct:
+
+    a.  The information above is accurate.
+    b.  The sum of ${{total_judgment_amount}} is justly due and owing.
+    c.  {{affidavit_additional_fact}}
+
+
+    _________________________________ Date: ________________
+    {{plaintiff_name}}, Plaintiff
+
+    WHEREFORE, Plaintiff requests that a Default Judgment be entered against
+    Defendant {{defendant_name}} in the total amount of ${{total_judgment_amount}},
+    plus costs of suit and post-judgment interest.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

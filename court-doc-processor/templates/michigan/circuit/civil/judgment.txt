@@ -1,0 +1,41 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                                  JUDGMENT
+                            ({{judgment_type}})
+
+    This matter having been tried before the Court {{trial_type}} on
+    {{hearing_date}}, the Honorable {{judge_name}} presiding, and the Court
+    having considered the evidence and arguments of counsel;
+
+    IT IS HEREBY ORDERED AND ADJUDGED that:
+
+1.  Judgment is entered in favor of {{prevailing_party}} and against
+    {{losing_party}}.
+
+2.  {{prevailing_party}} is awarded damages in the amount of
+    ${{judgment_amount}}, plus interest at {{interest_rate}} per annum from
+    the date of judgment pursuant to MCL 600.6013, together with costs of
+    suit in the amount of ${{costs_amount}}.
+
+3.  {{additional_judgment_provision_1}}
+
+4.  {{additional_judgment_provision_2}}
+
+5.  All other pending motions are hereby DISMISSED AS MOOT.
+
+    DATED: ______________________________
+
+
+                                        _________________________________
+                                        HON. {{judge_name}}
+                                        {{county}} County Circuit Judge

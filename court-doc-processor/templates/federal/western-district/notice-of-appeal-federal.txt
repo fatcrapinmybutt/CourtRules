@@ -1,0 +1,48 @@
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF MICHIGAN
+{{division}} DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+              NOTICE OF APPEAL
+              (FRAP 3; 28 U.S.C. § 1291)
+
+    NOTICE IS HEREBY GIVEN that {{appealing_party}}, {{appellant_description}}
+    in the above-named case, hereby appeals to the United States Court of
+    Appeals for the Sixth Circuit from:
+
+    THE JUDGMENT / ORDER: {{order_description}}
+
+    ENTERED ON: {{order_entry_date}}
+
+    by the Honorable {{judge_name}}, United States District Judge.
+
+    The appeal is taken from the entire judgment [OR: the following
+    portions: {{portions_appealed}}].
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{appealing_party}}
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        {{attorney_email}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+DEADLINES:
+  Civil cases:    30 days from entry of judgment (FRAP 4(a)(1)(A))
+                  60 days if U.S. government is a party
+  Criminal cases: 14 days from entry of judgment (FRAP 4(b)(1)(A))
+
+Filing fee: $505 payable to U.S. District Court Clerk at time of filing.
+
+This notice is filed with the District Court Clerk, not the Sixth Circuit.
+────────────────────────────────────────────────────────────────────────────

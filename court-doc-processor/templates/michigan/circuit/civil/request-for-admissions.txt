@@ -1,0 +1,70 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+       PLAINTIFF'S FIRST REQUESTS FOR ADMISSION
+               (MCR 2.312)
+
+    Pursuant to MCR 2.312, Plaintiff {{plaintiff_name}} requests that
+    Defendant {{defendant_name}} admit or deny the truth of the following
+    matters within 28 days of service.
+
+                        INSTRUCTIONS
+
+    Each matter is admitted unless, within 28 days after service, a written
+    answer or objection is filed.  An answer shall specifically deny the
+    matter or set forth in detail the reasons why the answering party cannot
+    truthfully admit or deny the matter.
+
+                         REQUESTS FOR ADMISSION
+
+REQUEST NO. 1:
+    Admit that {{request_for_admission_1}}.
+
+RESPONSE:
+
+
+REQUEST NO. 2:
+    Admit that {{request_for_admission_2}}.
+
+RESPONSE:
+
+
+REQUEST NO. 3:
+    Admit that the document attached as Exhibit A is a true and correct copy
+    of {{exhibit_a_description}}.
+
+RESPONSE:
+
+
+REQUEST NO. 4:
+    Admit that {{request_for_admission_4}}.
+
+RESPONSE:
+
+
+REQUEST NO. 5:
+    Admit that {{request_for_admission_5}}.
+
+RESPONSE:
+
+
+REQUEST NO. 6:
+    Admit that {{request_for_admission_6}}.
+
+RESPONSE:
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

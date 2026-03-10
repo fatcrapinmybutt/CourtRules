@@ -1,0 +1,110 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+
+{{plaintiff_name}},
+    Petitioner,
+
+v.                                          No. _______________
+{{defendant_name}},
+    Respondent.
+____________________________________/
+
+         PETITION FOR A WRIT OF CERTIORARI
+         TO THE UNITED STATES COURT OF APPEALS
+         FOR THE SIXTH CIRCUIT
+         (Supreme Court Rule 14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUESTIONS PRESENTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    1.  {{question_presented_1}}
+
+    2.  {{question_presented_2}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PARTIES TO THE PROCEEDING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Petitioner: {{plaintiff_name}}
+    Respondent: {{defendant_name}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TABLE OF CONTENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Opinions Below .................................................. 1
+    Jurisdiction .................................................... 1
+    Constitutional and Statutory Provisions Involved ............... 2
+    Statement of the Case .......................................... 3
+    Reasons for Granting the Petition ............................. 7
+    Conclusion .................................................... 14
+    Appendix A — Sixth Circuit Opinion
+    Appendix B — District Court Order
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPINIONS BELOW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    The opinion of the United States Court of Appeals for the Sixth
+    Circuit (App. A) is {{sixth_circuit_opinion_status}} at
+    {{sixth_circuit_citation}}.
+
+    The order of the United States District Court for the Western
+    District of Michigan (App. B) is {{district_court_opinion_status}}.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JURISDICTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    The Sixth Circuit entered judgment on {{sixth_circuit_judgment_date}}.
+    This Petition is filed within 90 days pursuant to 28 U.S.C. § 2101(c)
+    and Supreme Court Rule 13.  This Court's jurisdiction is invoked under
+    28 U.S.C. § 1254(1).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONSTITUTIONAL AND STATUTORY PROVISIONS INVOLVED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{constitutional_provisions}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATEMENT OF THE CASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{statement_of_facts}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+REASONS FOR GRANTING THE PETITION (Supreme Court Rule 10)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I.  THIS CASE PRESENTS AN IMPORTANT FEDERAL QUESTION THAT HAS DIVIDED THE
+    CIRCUITS / HAS NOT BEEN SETTLED BY THIS COURT.
+
+    A.  {{circuit_split_description}}
+
+        {{circuit_split_argument}}
+
+    B.  {{importance_argument}}
+
+II.  THE SIXTH CIRCUIT'S DECISION IS INCORRECT.
+
+    {{merits_argument}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONCLUSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    The petition for a writ of certiorari should be granted.
+
+Dated: {{filing_date}}
+                                        Respectfully submitted,
+
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Counsel of Record
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        {{attorney_email}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+FORMAT NOTE (Supreme Court Rule 33):
+  - Paid petitions: booklet format, 6⅛" × 9¼", 40 pages max
+  - IFP petitions (Rule 39): 8½" × 11", 40 pages max, double-spaced
+  - Cover: white for certiorari petition
+  - Filing fee: $300 (waived for IFP — Rule 39)
+  - DEADLINE: 90 days from Sixth Circuit judgment (28 U.S.C. § 2101(c))
+────────────────────────────────────────────────────────────────────────────

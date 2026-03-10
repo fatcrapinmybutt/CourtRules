@@ -1,0 +1,67 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+FAMILY DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+   UNIFORM CHILD CUSTODY JURISDICTION AND ENFORCEMENT ACT (UCCJEA)
+                          AFFIDAVIT
+                    (MCL 722.1209; MCR 3.206(A)(2)(c))
+
+STATE OF MICHIGAN   )
+                    ) ss.
+COUNTY OF {{county}})
+
+    I, {{affiant_name}}, state under oath:
+
+1.  I am the [ ] Plaintiff [ ] Defendant in this action.
+
+2.  The following are the minor children subject to this proceeding:
+
+    Name                    Date of Birth      Current Residence
+    ───────────────────────────────────────────────────────────────────────
+    {{child_1_name}}        {{child_1_dob}}    {{child_1_residence}}
+    {{child_2_name}}        {{child_2_dob}}    {{child_2_residence}}
+    {{child_3_name}}        {{child_3_dob}}    {{child_3_residence}}
+
+3.  The children have lived at the following addresses during the past 5 years:
+
+    Period              Address                         With Whom
+    ───────────────────────────────────────────────────────────────────────
+    {{period_1}}        {{address_1}}                   {{with_whom_1}}
+    {{period_2}}        {{address_2}}                   {{with_whom_2}}
+    {{period_3}}        {{address_3}}                   {{with_whom_3}}
+
+4.  Do you have information about any custody proceedings concerning the
+    child(ren) in any state or country?  [ ] Yes  [ ] No
+    If yes: {{other_custody_proceeding_details}}
+
+5.  Do you know of any person not a party who has physical custody of or
+    claims custody or visitation rights to the children?
+    [ ] Yes  [ ] No
+    If yes: {{other_person_custody_claim}}
+
+6.  Michigan is the home state of the children (the state in which the
+    children have lived for at least 6 consecutive months immediately before
+    this proceeding).  MCL 722.1102(g).
+
+    I declare under penalty of perjury that the foregoing is true and correct.
+
+
+    _________________________________  Date: _____________
+    {{affiant_name}}
+
+
+    Subscribed and sworn to before me this _______ day of ____________, 20___.
+
+    _________________________________
+    {{notary_name}}, Notary Public
+    {{notary_county}} County, Michigan
+    My Commission Expires: {{notary_expiration}}

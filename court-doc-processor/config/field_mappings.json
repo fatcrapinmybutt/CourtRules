@@ -1,0 +1,190 @@
+{
+  "_comment": "Field extraction patterns for court documents. Each key is a field name; value is either a single regex string or a list of regex strings tried in order. Use named group 'value' or group 1 to capture the field value.",
+  "_note_dashes": "Case number patterns intentionally match both ASCII hyphen (-) and Unicode en-dash (–) because court case management systems output case numbers with either character depending on the software version.",
+
+  "case_number": [
+    "Case\\s*(?:No\\.?|Number)[:\\s]+(?P<value>[0-9]{2,4}[-–][0-9]{3,6}[-–][A-Z]{1,4}[0-9]?)",
+    "(?:Docket|File)\\s*(?:No\\.?|Number)[:\\s]+(?P<value>[0-9]{2,4}[-–][0-9]{3,6}[-–][A-Z]{1,4}[0-9]?)",
+    "No\\.?\\s*(?P<value>[0-9]{2,4}[-–][0-9]{3,6}[-–][A-Z]{1,4}[0-9]?)"
+  ],
+
+  "court_name": [
+    "(?:IN THE|STATE OF MICHIGAN\\s+IN THE)\\s+(?P<value>[A-Z][A-Z .,'-]{5,80}COURT[A-Z .,'-]{0,40})",
+    "(?P<value>(?:MUSKEGON|KENT|OTTAWA|ALLEGAN|MASON)[\\s]+COUNTY[\\s]+(?:CIRCUIT|PROBATE|DISTRICT)\\s+COURT)",
+    "(?P<value>MICHIGAN COURT OF APPEALS)",
+    "(?P<value>MICHIGAN SUPREME COURT)",
+    "(?P<value>UNITED STATES DISTRICT COURT[\\s\\S]{0,60}MICHIGAN)",
+    "(?P<value>UNITED STATES COURT OF APPEALS[\\s\\S]{0,40}SIXTH CIRCUIT)"
+  ],
+
+  "county": [
+    "County\\s+of\\s+(?P<value>[A-Za-z]+)",
+    "(?P<value>[A-Z][a-z]+)\\s+County"
+  ],
+
+  "division": [
+    "(?P<value>(?:Northern|Southern|Eastern|Western)\\s+Division)"
+  ],
+
+  "plaintiff_name": [
+    "(?:Plaintiff|Petitioner)[\\s,]+(?P<value>[A-Z][A-Za-z ,.'\\-]{2,60}?)(?:\\s*,\\s*(?:a\\s+Michigan|an?\\s+individual|LLC|Inc|Corp|Trust)|\\.\\s*$|\\nv\\.|\\nvs\\.)",
+    "(?P<value>[A-Z][A-Z ,.'\\-]{2,50}),?\\s*\\n\\s*Plaintiff",
+    "(?P<value>[A-Z][A-Z ,.'\\-]{2,50}),?\\s*\\n\\s*Petitioner"
+  ],
+
+  "defendant_name": [
+    "(?:Defendant|Respondent)[\\s,]+(?P<value>[A-Z][A-Za-z ,.'\\-]{2,60}?)(?:\\s*,\\s*(?:a\\s+Michigan|an?\\s+individual|LLC|Inc|Corp|Trust)|\\.\\s*$|\\n)",
+    "(?P<value>[A-Z][A-Z ,.'\\-]{2,50}),?\\s*\\n\\s*Defendant",
+    "(?P<value>[A-Z][A-Z ,.'\\-]{2,50}),?\\s*\\n\\s*Respondent"
+  ],
+
+  "plaintiff_attorney_name": [
+    "Attorney for Plaintiff[:\\s]+(?P<value>[A-Za-z ,.'\\-]{5,60})(?:\\n|,|Bar)",
+    "Counsel for Plaintiff[:\\s]+(?P<value>[A-Za-z ,.'\\-]{5,60})(?:\\n|,|Bar)"
+  ],
+
+  "plaintiff_attorney_bar": [
+    "Bar\\s*(?:No\\.?|#|Number)[:\\s]*(?P<value>P-?[0-9]{5,6}|[0-9]{5,6})"
+  ],
+
+  "defendant_attorney_name": [
+    "Attorney for Defendant[:\\s]+(?P<value>[A-Za-z ,.'\\-]{5,60})(?:\\n|,|Bar)",
+    "Counsel for Defendant[:\\s]+(?P<value>[A-Za-z ,.'\\-]{5,60})(?:\\n|,|Bar)"
+  ],
+
+  "defendant_attorney_bar": [
+    "Bar\\s*(?:No\\.?|#|Number)[:\\s]*(?P<value>P-?[0-9]{5,6}|[0-9]{5,6})"
+  ],
+
+  "judge_name": [
+    "(?:Judge|Honorable|Hon\\.?)\\s+(?P<value>[A-Z][A-Za-z .'\\-]{3,50})(?:\\n|,|Circuit)",
+    "Assigned\\s+(?:Judge|to)[:\\s]+(?P<value>[A-Z][A-Za-z .'\\-]{3,50})"
+  ],
+
+  "filing_date": [
+    "(?:Filed|Date Filed)[:\\s]+(?P<value>(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+[0-9]{1,2},?\\s+[0-9]{4})",
+    "(?:Filed|Date Filed)[:\\s]+(?P<value>[0-9]{1,2}/[0-9]{1,2}/[0-9]{2,4})",
+    "(?:Filed|Date Filed)[:\\s]+(?P<value>[0-9]{4}-[0-9]{2}-[0-9]{2})"
+  ],
+
+  "hearing_date": [
+    "(?:Hearing|hearing\\s+date|scheduled\\s+for)[:\\s]+(?P<value>(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+[0-9]{1,2},?\\s+[0-9]{4})",
+    "(?:Hearing|Return\\s+Date)[:\\s]+(?P<value>[0-9]{1,2}/[0-9]{1,2}/[0-9]{2,4})"
+  ],
+
+  "hearing_time": [
+    "(?:at|@)\\s+(?P<value>[0-9]{1,2}:[0-9]{2}\\s*(?:a\\.?m\\.?|p\\.?m\\.?))",
+    "(?:Time)[:\\s]+(?P<value>[0-9]{1,2}:[0-9]{2}\\s*(?:a\\.?m\\.?|p\\.?m\\.?))"
+  ],
+
+  "hearing_location": [
+    "(?:Courtroom|Room|Location)[:\\s]+(?P<value>[A-Za-z0-9 ,#.'\\-]{3,80})",
+    "(?:held\\s+at|before\\s+the\\s+Honorable.*?at)\\s+(?P<value>[A-Za-z0-9 ,#.'\\-]{3,80})"
+  ],
+
+  "amount_claimed": [
+    "(?:damages|amount|sum)\\s+(?:of|in\\s+excess\\s+of)?\\s+\\$(?P<value>[0-9,]+(?:\\.[0-9]{2})?)",
+    "\\$(?P<value>[0-9,]+(?:\\.[0-9]{2})?)\\s+(?:in\\s+damages|claimed)"
+  ],
+
+  "cause_of_action": [
+    "(?:Count\\s+I|Count\\s+1|Claim)[:\\s—\\-]+(?P<value>[A-Z][A-Za-z /\\-]{5,80})"
+  ],
+
+  "marriage_date": [
+    "(?:married|marriage\\s+(?:was|took place|occurred))\\s+(?:on|in)?\\s*(?P<value>(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+[0-9]{1,2},?\\s+[0-9]{4}|[0-9]{1,2}/[0-9]{1,2}/[0-9]{4})"
+  ],
+
+  "separation_date": [
+    "(?:separated|separation)\\s+(?:on)?\\s*(?P<value>(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+[0-9]{1,2},?\\s+[0-9]{4}|[0-9]{1,2}/[0-9]{1,2}/[0-9]{4})"
+  ],
+
+  "minor_children": [
+    "(?:minor\\s+child(?:ren)?|children)[:\\s]+(?P<value>[A-Z][A-Za-z ,.'\\-]{2,200}?)(?:born|age|\\n\\n|custody)",
+    "(?P<value>[A-Z][A-Za-z]+\\s+(?:[A-Z][A-Za-z]+\\s+)?[A-Z][A-Za-z]+)\\s*,?\\s*(?:born|DOB|age)"
+  ],
+
+  "property_address": [
+    "(?:property|premises|residence|address)(?:\\s+located)?(?:\\s+at)?[:\\s]+(?P<value>[0-9]+\\s+[A-Za-z0-9 .,#\\-]{5,80}(?:MI|Michigan)\\s+[0-9]{5})"
+  ],
+
+  "plaintiff_address": [
+    "Plaintiff[\\s\\S]{0,200}?(?:resides|residing|address)[:\\s]+(?P<value>[0-9]+\\s+[A-Za-z0-9 .,#\\-]{5,80}(?:MI|Michigan)?\\s*[0-9]{5})"
+  ],
+
+  "defendant_address": [
+    "Defendant[\\s\\S]{0,200}?(?:resides|residing|address)[:\\s]+(?P<value>[0-9]+\\s+[A-Za-z0-9 .,#\\-]{5,80}(?:MI|Michigan)?\\s*[0-9]{5})"
+  ],
+
+  "service_date": [
+    "(?:served|service)(?:\\s+on)?[:\\s]+(?P<value>(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+[0-9]{1,2},?\\s+[0-9]{4}|[0-9]{1,2}/[0-9]{1,2}/[0-9]{4})"
+  ],
+
+  "served_on": [
+    "(?:served\\s+(?:on|upon))\\s+(?P<value>[A-Z][A-Za-z ,.'\\-]{2,60})(?:\\n|,|at)"
+  ],
+
+  "served_by": [
+    "(?:served\\s+by|service\\s+by)\\s+(?P<value>[A-Z][A-Za-z ,.'\\-]{2,60})(?:\\n|,|at)"
+  ],
+
+  "judgment_amount": [
+    "(?:judgment|Judgment)\\s+(?:of|for|in the amount of)\\s+\\$(?P<value>[0-9,]+(?:\\.[0-9]{2})?)"
+  ],
+
+  "interest_rate": [
+    "(?:interest)\\s+(?:at|@)\\s+(?P<value>[0-9]+(?:\\.[0-9]+)?\\s*%)"
+  ],
+
+  "appeal_filed_date": [
+    "(?:notice\\s+of\\s+appeal|claim\\s+of\\s+appeal)\\s+(?:was\\s+)?(?:filed|docketed)\\s+(?:on)?[:\\s]+(?P<value>[0-9]{1,2}/[0-9]{1,2}/[0-9]{4}|(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+[0-9]{1,2},?\\s+[0-9]{4})"
+  ],
+
+  "lower_court_case_number": [
+    "(?:lower court|trial court|circuit court)\\s+case\\s+(?:no\\.?|number)[:\\s]+(?P<value>[0-9]{2,4}[-–][0-9]{3,6}[-–][A-Z]{1,4}[0-9]?)"
+  ],
+
+  "issues_on_appeal": [
+    "(?:Issues?\\s+(?:on|Presented(?:\\s+for)?\\s+Review|for\\s+Appeal))[:\\s]+(?P<value>[\\s\\S]{10,500}?)(?:\\n\\s*\\n|ARGUMENT|STATEMENT)"
+  ],
+
+  "sentence_imposed": [
+    "(?:sentenced|sentence)\\s+(?:to|of)[:\\s]+(?P<value>[A-Za-z0-9 ,'\\-\\.]{5,100}?)(?:\\.|;|\\n)"
+  ],
+
+  "conviction": [
+    "(?:convicted|found guilty)\\s+of\\s+(?P<value>[A-Za-z0-9 ,'\\-\\.]{5,100}?)(?:\\.|;|\\n)"
+  ],
+
+  "offense_date": [
+    "(?:offense|incident|occurred)\\s+(?:on|date)[:\\s]+(?P<value>[0-9]{1,2}/[0-9]{1,2}/[0-9]{4}|(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+[0-9]{1,2},?\\s+[0-9]{4})"
+  ],
+
+  "support_amount": [
+    "(?:support|child\\s+support|spousal\\s+support)[:\\s]+\\$(?P<value>[0-9,]+(?:\\.[0-9]{2})?)(?:\\s*per\\s+(?:month|week))"
+  ],
+
+  "parenting_time_schedule": [
+    "(?:parenting\\s+time|visitation)[:\\s]+(?P<value>[\\s\\S]{10,300}?)(?:\\n\\s*\\n|custody|support)"
+  ],
+
+  "custody_arrangement": [
+    "(?:custody)[:\\s]+(?P<value>[A-Za-z ,'\\-\\.]{5,100}?)(?:\\.|;|\\n|parenting)"
+  ],
+
+  "attorney_firm": [
+    "(?P<value>[A-Z][A-Za-z ,.'&\\-]{3,60}(?:Law|PLLC|LLC|PC|LLP|Attorneys|Firm))"
+  ],
+
+  "attorney_phone": [
+    "(?:Phone|Tel(?:ephone)?|Ph\\.?)[:\\s]+(?P<value>\\(?[0-9]{3}\\)?[\\s.\\-][0-9]{3}[.\\-][0-9]{4})"
+  ],
+
+  "attorney_email": [
+    "(?P<value>[a-zA-Z0-9._%+\\-]+@[a-zA-Z0-9.\\-]+\\.[a-zA-Z]{2,})"
+  ],
+
+  "attorney_address": [
+    "(?:address)[:\\s]+(?P<value>[0-9]+\\s+[A-Za-z0-9 .,#\\-]{5,80}(?:MI|Michigan)?\\s*[0-9]{5})"
+  ]
+}

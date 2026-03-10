@@ -1,0 +1,61 @@
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF MICHIGAN
+{{division}} DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+         MOTION {{motion_type}}
+         AND BRIEF IN SUPPORT
+         (LCivR 7.1)
+
+    NOW COMES {{moving_party}}, by and through counsel, and pursuant to
+    FRCP {{applicable_frcp_rule}} and LCivR 7.1, moves this Court for
+    an order {{relief_sought}}.
+
+                     STATEMENT OF ISSUE
+
+    {{motion_issue_statement}}
+
+                    STATEMENT OF FACTS
+
+    {{fact_paragraph_1}}
+
+    {{fact_paragraph_2}}
+
+    {{fact_paragraph_3}}
+
+                         ARGUMENT
+
+I.  {{argument_heading_i}}
+
+    {{argument_i_text}}
+
+II.  {{argument_heading_ii}}
+
+    {{argument_ii_text}}
+
+                   CONCURRENCE SOUGHT
+
+    Pursuant to LCivR 7.1(a), counsel for {{moving_party}} sought
+    concurrence from {{opposing_party}}'s counsel by {{concurrence_method}}
+    on {{concurrence_date}}.  {{concurrence_status}}.
+
+                      CONCLUSION
+
+    For the foregoing reasons, {{moving_party}} respectfully requests that
+    this Honorable Court grant this Motion and enter an order {{relief_sought}}.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

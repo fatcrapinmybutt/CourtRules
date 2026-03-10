@@ -1,0 +1,49 @@
+STATE OF MICHIGAN
+IN THE SUPREME COURT
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          SC Case No. {{sc_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+         MOTION FOR RECONSIDERATION
+         (Michigan Supreme Court)
+         (MCR 7.311(F); MCR 7.309)
+
+    NOW COMES {{moving_party}}, and pursuant to MCR 7.309, moves this
+    Court to reconsider its Opinion / Order issued on {{sc_decision_date}}.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GROUNDS FOR RECONSIDERATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.  {{sc_reconsideration_ground_1}}
+
+    The Court stated: "{{sc_court_statement}}"
+
+    The correct statement of the rule / fact is: {{correct_rule_or_fact}}
+
+2.  {{sc_reconsideration_ground_2}}
+
+3.  {{sc_reconsideration_ground_3}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RELIEF REQUESTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    WHEREFORE, {{moving_party}} requests that this Court reconsider its
+    opinion/order and {{requested_sc_reconsideration_relief}}.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+DEADLINE: Must be filed within 21 days of the Supreme Court opinion.
+Rarely granted.  Must show substantial grounds.  MCR 7.309.
+────────────────────────────────────────────────────────────────────────────

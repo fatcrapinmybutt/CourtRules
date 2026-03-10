@@ -1,0 +1,102 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                              COMPLAINT
+              ({{cause_of_action}})
+
+                        JURISDICTION AND VENUE
+
+1.  Plaintiff {{plaintiff_name}} is an individual who resides at
+    {{plaintiff_address}}, in the County of {{county}}, State of Michigan.
+
+2.  Defendant {{defendant_name}} is {{defendant_description}}, with a
+    principal place of business / address at {{defendant_address}}, in
+    the County of {{county}}, State of Michigan.
+
+3.  Venue is proper in {{county}} County because the cause of action arose
+    in this county and/or the parties reside in this county.  MCL 600.1621.
+
+4.  The amount in controversy exceeds {{amount_claimed}} and/or this Court
+    has jurisdiction pursuant to MCL 600.8301.
+
+                              GENERAL ALLEGATIONS
+
+5.  {{general_allegation_1}}
+
+6.  {{general_allegation_2}}
+
+7.  {{general_allegation_3}}
+
+8.  {{general_allegation_4}}
+
+9.  {{general_allegation_5}}
+
+                         COUNT I — {{count_i_heading}}
+
+10. Plaintiff re-alleges and incorporates by reference all preceding
+    paragraphs as if fully set forth herein.
+
+11. {{count_i_allegation_1}}
+
+12. {{count_i_allegation_2}}
+
+13. {{count_i_allegation_3}}
+
+14. As a direct and proximate result of Defendant's conduct described above,
+    Plaintiff has suffered damages including: {{count_i_damages}}.
+
+                        COUNT II — {{count_ii_heading}}
+                        (In the Alternative, if Applicable)
+
+15. Plaintiff re-alleges and incorporates by reference all preceding
+    paragraphs as if fully set forth herein.
+
+16. {{count_ii_allegation_1}}
+
+17. {{count_ii_allegation_2}}
+
+18. As a direct and proximate result, Plaintiff has suffered damages
+    including: {{count_ii_damages}}.
+
+                              RELIEF REQUESTED
+
+    WHEREFORE, Plaintiff {{plaintiff_name}} respectfully requests that this
+    Honorable Court enter judgment in Plaintiff's favor and against Defendant
+    {{defendant_name}} as follows:
+
+    a.  Compensatory damages in excess of {{amount_claimed}};
+    b.  {{additional_relief_1}};
+    c.  {{additional_relief_2}};
+    d.  Costs and attorney fees as permitted by law;
+    e.  Such other and further relief as the Court deems just and proper.
+
+                                        Respectfully submitted,
+
+                                        {{attorney_firm}}
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+                           JURY DEMAND
+────────────────────────────────────────────────────────────────────────────
+
+Plaintiff hereby demands a trial by jury on all issues so triable.
+(MCR 2.508)
+
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
