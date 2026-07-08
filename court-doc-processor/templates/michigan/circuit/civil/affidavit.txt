@@ -1,0 +1,55 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                                  AFFIDAVIT
+                               OF {{affiant_name}}
+
+    STATE OF MICHIGAN   )
+                        ) ss.
+    COUNTY OF {{county}})
+
+    I, {{affiant_name}}, being first duly sworn, depose and state as follows:
+
+1.  I am {{affiant_description}}.  I have personal knowledge of all facts
+    set forth in this Affidavit and am competent to testify thereto.
+
+2.  {{affidavit_fact_1}}
+
+3.  {{affidavit_fact_2}}
+
+4.  {{affidavit_fact_3}}
+
+5.  {{affidavit_fact_4}}
+
+6.  {{affidavit_fact_5}}
+
+7.  {{affidavit_fact_6}}
+
+8.  I declare under penalty of perjury under the laws of the State of
+    Michigan that the foregoing is true and correct.
+
+    Executed on {{filing_date}} at {{execution_location}}.
+
+
+                                        _________________________________
+                                        {{affiant_name}}
+                                        {{affiant_address}}
+
+
+    Subscribed and sworn to before me, a Notary Public in and for said
+    County and State, this _______ day of _____________, 20___.
+
+
+                                        _________________________________
+                                        {{notary_name}}, Notary Public
+                                        {{notary_county}} County, Michigan
+                                        My Commission Expires: {{notary_expiration}}

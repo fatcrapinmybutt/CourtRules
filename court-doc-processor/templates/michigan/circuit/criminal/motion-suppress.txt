@@ -1,0 +1,66 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+PEOPLE OF THE STATE OF MICHIGAN,
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+         MOTION TO SUPPRESS EVIDENCE
+         AND BRIEF IN SUPPORT
+         (MCR 6.110; MCR 6.202; US Const Am IV; Const 1963, Art 1, § 11)
+
+    NOW COMES Defendant {{defendant_name}}, by and through counsel
+    {{defendant_attorney_name}}, and moves to suppress all evidence obtained
+    in violation of the Fourth Amendment to the United States Constitution
+    and Article I, Section 11 of the Michigan Constitution.
+
+                            STATEMENT OF FACTS
+
+    {{suppression_facts}}
+
+                               ARGUMENT
+
+I.  THE SEARCH / SEIZURE WAS CONDUCTED WITHOUT A WARRANT AND NO EXCEPTION
+    APPLIES.
+
+    A search conducted without a valid warrant is presumptively unreasonable.
+    Katz v United States, 389 US 347 (1967); People v Borchard-Ruhland,
+    460 Mich 278 (1999).
+
+    {{warrant_analysis}}
+
+II.  {{second_suppression_argument_heading}}
+
+    {{second_suppression_argument_text}}
+
+III.  THE GOOD FAITH EXCEPTION DOES NOT APPLY.
+
+    {{good_faith_analysis}}
+
+IV.  THE EXCLUSIONARY RULE REQUIRES SUPPRESSION.
+
+    All evidence obtained as a result of the unlawful search or seizure must
+    be suppressed as "fruit of the poisonous tree."  Wong Sun v United States,
+    371 US 471 (1963); People v Goldston, 470 Mich 523 (2004).
+
+    The following evidence must be suppressed: {{evidence_to_suppress}}.
+
+                              RELIEF REQUESTED
+
+    WHEREFORE, Defendant requests that this Court:
+    a.  Suppress all evidence obtained as a result of the unlawful
+        search/seizure described above;
+    b.  {{additional_suppression_relief}};
+    c.  Grant a hearing at which Defendant may present testimony.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{defendant_attorney_name}}
+                                        Attorney for Defendant
+                                        {{attorney_phone}}
+                                        Bar No. {{defendant_attorney_bar}}

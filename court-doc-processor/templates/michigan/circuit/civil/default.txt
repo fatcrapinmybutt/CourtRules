@@ -1,0 +1,51 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                      REQUEST FOR ENTRY OF DEFAULT
+                    (MCR 2.603(A))
+
+TO: Clerk of the {{county}} County Circuit Court
+
+    Plaintiff {{plaintiff_name}} requests that the Clerk of the Court enter a
+    default against Defendant {{defendant_name}} for failure to plead or
+    otherwise defend in the above-captioned action.
+
+    Defendant was served with the Summons and Complaint on {{service_date}} by
+    {{service_method}}.  Proof of service was filed on {{proof_of_service_date}}.
+
+    The time within which Defendant was required to file an answer or otherwise
+    respond expired on {{answer_deadline}}.  Defendant has failed to appear,
+    plead, or otherwise respond to the Complaint.
+
+    I declare that the statements above are true to the best of my information,
+    knowledge, and belief.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+                           CLERK'S CERTIFICATE OF DEFAULT
+────────────────────────────────────────────────────────────────────────────
+
+    I, Clerk of the {{county}} County Circuit Court, certify that the above
+    request is in proper form and that the default of {{defendant_name}} is
+    hereby entered.
+
+    Default entered: ______________________________
+
+                                        _________________________________
+                                        Deputy Clerk

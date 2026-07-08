@@ -1,0 +1,55 @@
+STATE OF MICHIGAN
+IN THE SUPREME COURT
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          SC Case No. {{sc_case_number}}
+                                            LC Case No. {{lower_court_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+         APPLICATION FOR BYPASS OF COURT OF APPEALS
+         (MCR 7.304)
+
+    Pursuant to MCR 7.304, {{plaintiff_name}} applies for bypass of the
+    Michigan Court of Appeals and direct review by this Court.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I.  BASIS FOR BYPASS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    This case presents an issue of exceptional public importance or broad
+    legal significance warranting immediate Supreme Court review:
+
+    {{bypass_public_importance_statement}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+II.  QUESTIONS PRESENTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    1.  {{question_presented_1}}
+    2.  {{question_presented_2}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+III.  STATEMENT OF FACTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{statement_of_facts}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IV.  ARGUMENT FOR BYPASS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{bypass_argument}}
+
+    WHEREFORE, Applicant requests that the Supreme Court grant bypass and
+    assume jurisdiction of this appeal directly.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Applicant
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+DEADLINE: Within 42 days of the final circuit court judgment.  MCR 7.304.
+────────────────────────────────────────────────────────────────────────────

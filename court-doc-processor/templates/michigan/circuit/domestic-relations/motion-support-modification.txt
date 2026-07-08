@@ -1,0 +1,57 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+FAMILY DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+         MOTION TO MODIFY CHILD / SPOUSAL SUPPORT
+         (MCR 3.212; MCL 552.517; MCL 552.28)
+
+    NOW COMES {{moving_party}}, by and through counsel, and moves to modify
+    support, and states:
+
+1.  Current support obligation: ${{current_support_amount}} per month for
+    {{support_type}} (child support / spousal support — circle applicable),
+    entered by order dated {{prior_order_date}}.
+
+2.  BASIS FOR MODIFICATION.  There has been a change of circumstances since
+    entry of the last support order:
+    a.  {{support_change_reason_1}}
+    b.  {{support_change_reason_2}}
+    c.  {{support_change_reason_3}}
+
+3.  {{moving_party}}'s current gross income is: ${{moving_party_income}} per month.
+    {{other_party}}'s current gross income is: ${{other_party_income}} per month.
+
+4.  Pursuant to the Michigan Child Support Formula, the correct support amount
+    is approximately ${{requested_support_amount}} per month.
+
+5.  The modification should be retroactive to {{retroactive_date}} because:
+    {{retroactive_justification}}.
+
+    WHEREFORE, {{moving_party}} requests an Order:
+    a.  Modifying support to ${{requested_support_amount}} per month;
+    b.  Applying modification retroactively to {{retroactive_date}};
+    c.  {{additional_support_relief}};
+    d.  Awarding attorney fees.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+VERIFICATION
+
+    _________________________________  Date: _____________
+    {{moving_party}}
+────────────────────────────────────────────────────────────────────────────

@@ -1,0 +1,47 @@
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE SIXTH CIRCUIT
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          Case No. {{coa_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+              APPELLANT'S REPLY BRIEF
+              (6 Cir. R. 28; FRAP 28(c))
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTRODUCTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{reply_introduction}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I.  {{reply_argument_heading_i}}
+
+    {{reply_argument_i}}
+
+II.  {{reply_argument_heading_ii}}
+
+    {{reply_argument_ii}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONCLUSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    For these reasons and those in the opening brief, Appellant requests
+    that this Court {{requested_appellate_relief}}.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+DEADLINE: Reply brief due 21 days after service of Appellee's brief.
+(6 Cir. R. 28.1).  Maximum 7,000 words / 15 pages.
+────────────────────────────────────────────────────────────────────────────

@@ -1,0 +1,47 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                                    SUMMONS
+
+TO THE ABOVE-NAMED DEFENDANT: {{defendant_name}}
+
+YOU ARE HEREBY NOTIFIED that a lawsuit has been filed against you.
+You have 21 days after receiving this summons to file a written answer
+with the court and serve a copy on the other party or take other lawful
+action with respect to the complaint. (MCR 2.108(A)(1))
+
+If you fail to answer or take other action within the time allowed, judgment
+may be entered against you for the relief demanded in the complaint.
+
+ISSUED:  {{filing_date}}
+
+                                    CLERK OF THE COURT
+                                    {{county}} County Circuit Court
+                                    {{court_address}}
+
+_________________________________
+Deputy Clerk
+
+────────────────────────────────────────────────────────────────────────────
+PLAINTIFF'S ATTORNEY INFORMATION
+────────────────────────────────────────────────────────────────────────────
+{{plaintiff_attorney_name}}
+{{attorney_firm}}
+{{attorney_address}}
+{{attorney_phone}}
+{{attorney_email}}
+Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+NOTE: This summons must be served on the defendant within 91 days of
+issuance (MCR 2.102(B)). Proof of service must be filed promptly.
+────────────────────────────────────────────────────────────────────────────

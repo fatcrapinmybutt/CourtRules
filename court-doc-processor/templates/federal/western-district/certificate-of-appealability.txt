@@ -1,0 +1,62 @@
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF MICHIGAN
+{{division}} DIVISION
+
+{{plaintiff_name}},
+    Petitioner,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Respondent.
+____________________________________/
+
+         APPLICATION FOR CERTIFICATE OF APPEALABILITY
+         (28 U.S.C. § 2253(c); FRAP 22)
+
+    Petitioner {{plaintiff_name}}, by and through counsel, respectfully
+    applies for a Certificate of Appealability from the order denying
+    habeas relief entered on {{order_entry_date}}.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I.  ISSUES FOR WHICH COA IS SOUGHT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ISSUE 1: {{coa_issue_1}}
+
+    Petitioner makes a substantial showing of the denial of a constitutional
+    right because: {{coa_showing_1}}
+    (Miller-El v Cockrell, 537 US 322 (2003))
+
+ISSUE 2: {{coa_issue_2}}
+
+    {{coa_showing_2}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+II.  BACKGROUND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    Conviction: {{conviction}}
+    Sentence: {{sentence_imposed}}
+    Direct Appeal: {{direct_appeal_outcome}}
+    State Post-Conviction: {{state_post_conviction_outcome}}
+    Federal Habeas: {{federal_habeas_outcome}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+III.  STANDARD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    A COA should issue when "the applicant has made a substantial showing
+    of the denial of a constitutional right."  28 U.S.C. § 2253(c)(2).
+    "The petitioner need not show that he should prevail on the merits."
+    Barefoot v Estelle, 463 US 880, 893 (1983).
+
+    WHEREFORE, Petitioner requests that the Court issue a Certificate of
+    Appealability on the issues set forth above.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Petitioner
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

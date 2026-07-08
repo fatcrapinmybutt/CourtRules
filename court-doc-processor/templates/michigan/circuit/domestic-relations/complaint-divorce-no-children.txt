@@ -1,0 +1,81 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+FAMILY DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+              COMPLAINT FOR DIVORCE
+           (No Minor Children of the Marriage)
+           (MCR 3.206; MCL 552.9)
+
+    Plaintiff {{plaintiff_name}} states:
+
+1.  PARTIES.  Plaintiff resides at {{plaintiff_address}}, {{county}} County,
+    Michigan.  Defendant resides at {{defendant_address}}.
+
+2.  RESIDENCY.  At least one party has been a resident of Michigan for at
+    least 180 days and of {{county}} County for at least 10 days preceding
+    this Complaint.  MCL 552.9.
+
+3.  MARRIAGE.  The parties were married on {{marriage_date}}, in
+    {{marriage_location}}.
+
+4.  GROUNDS.  There has been a breakdown of the marriage relationship to the
+    extent that the objects of matrimony have been destroyed and there remains
+    no reasonable likelihood that the marriage can be preserved.
+    MCL 552.6(1).
+
+5.  CHILDREN.  There are no minor children born of or adopted during the
+    marriage.
+
+6.  PROPERTY.  The parties have acquired the following marital property
+    during the marriage:
+    a.  Real property: {{real_property_description}}
+    b.  Personal property: {{personal_property_description}}
+    c.  Financial accounts: {{financial_accounts_description}}
+    d.  Debt: {{debt_description}}
+
+7.  SPOUSAL SUPPORT.  Plaintiff requests / does not request spousal support.
+    {{spousal_support_request}}
+
+8.  NAME CHANGE.  Plaintiff requests / does not request restoration of former
+    name: {{former_name}}.  MCL 552.391.
+
+                            RELIEF REQUESTED
+
+    WHEREFORE, Plaintiff requests:
+
+    a.  A Judgment of Divorce dissolving the bonds of matrimony;
+    b.  An equitable division of marital property and debts;
+    c.  {{spousal_support_request_detail}};
+    d.  Restoration of Plaintiff's former name to {{former_name}}
+        (if applicable);
+    e.  Such other relief as the Court deems just and equitable.
+
+                                        Respectfully submitted,
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+VERIFICATION
+
+I declare that the statements above are true to the best of my information,
+knowledge, and belief.  MCR 1.109(D)(3)(b).
+
+
+    _________________________________  Date: _____________
+    {{plaintiff_name}}, Plaintiff
+────────────────────────────────────────────────────────────────────────────

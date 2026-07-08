@@ -1,0 +1,99 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+       PLAINTIFF'S FIRST SET OF INTERROGATORIES TO DEFENDANT
+               (MCR 2.309)
+
+    Pursuant to MCR 2.309, Plaintiff {{plaintiff_name}} hereby requests that
+    Defendant {{defendant_name}} answer the following Interrogatories in
+    writing, under oath, within 28 days of service.
+
+                        DEFINITIONS AND INSTRUCTIONS
+
+    1.  "You" or "Your" means the Defendant, its officers, employees, agents,
+        and all persons acting on its behalf.
+    2.  "Document" means any writing, recording, email, text message, or
+        electronically stored information.
+    3.  If any response is based on information not personally known to you,
+        identify the source of that information.
+    4.  If any Interrogatory is objected to, state the grounds for objection
+        with specificity.
+
+                          INTERROGATORIES
+
+INTERROGATORY NO. 1:
+    Identify by full name, address, and relationship to you all persons with
+    knowledge of the facts and circumstances alleged in Plaintiff's Complaint.
+
+ANSWER:
+
+
+INTERROGATORY NO. 2:
+    Describe in detail your version of the events giving rise to this action.
+
+ANSWER:
+
+
+INTERROGATORY NO. 3:
+    {{interrogatory_3}}
+
+ANSWER:
+
+
+INTERROGATORY NO. 4:
+    {{interrogatory_4}}
+
+ANSWER:
+
+
+INTERROGATORY NO. 5:
+    {{interrogatory_5}}
+
+ANSWER:
+
+
+INTERROGATORY NO. 6:
+    Identify all documents that support or relate to your defenses in this
+    matter.
+
+ANSWER:
+
+
+INTERROGATORY NO. 7:
+    {{interrogatory_7}}
+
+ANSWER:
+
+
+INTERROGATORY NO. 8:
+    Identify all expert witnesses you intend to call at trial, including
+    their name, address, and subject matter of testimony.
+
+ANSWER:
+
+
+                                 VERIFICATION
+
+I, {{defendant_name}}, declare under penalty of perjury that the foregoing
+answers are true and complete to the best of my knowledge.
+
+
+    _________________________________   Date: ________________
+    {{defendant_name}}
+
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

@@ -1,0 +1,86 @@
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF MICHIGAN
+{{division}} DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+      APPLICATION TO PROCEED IN DISTRICT COURT
+               WITHOUT PREPAYING FEES OR COSTS
+               (28 U.S.C. § 1915; AO Form 239)
+
+    Plaintiff {{plaintiff_name}} applies to proceed without prepaying fees
+    or costs in the above action, and states:
+
+    I am unable to pay the fees and costs of these proceedings or give
+    security because of my poverty.  My affidavit or declaration in support
+    is as follows:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  INCOME (last 12 months)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Employment: ${{employment_income}} per month / year
+    Self-employment: ${{self_employment_monthly}} per month
+    Disability/Social Security: ${{ssd_monthly}} per month
+    Other income (describe): ${{other_income_monthly}} per month
+    TOTAL INCOME: ${{total_gross_monthly}} per month
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  BANK ACCOUNT BALANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Checking: ${{checking_balance}}
+    Savings:  ${{savings_balance}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  ASSETS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Real estate owned: {{real_estate_assets}}
+    Vehicle(s): {{vehicle_assets}}
+    Other: {{other_assets}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4.  MONTHLY EXPENSES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Housing (rent/mortgage): ${{housing_expense}}
+    Food: ${{food_expense}}
+    Utilities: ${{utilities_expense}}
+    Transportation: ${{transportation_expense}}
+    Medical: ${{medical_expense}}
+    Child support / dependents: ${{child_support_expense}}
+    Other: ${{other_expense}}
+    TOTAL: ${{total_monthly_expenses}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5.  DEPENDENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Number of dependents: {{number_of_dependents}}
+    Relationship(s): {{dependent_relationships}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6.  ATTORNEY / REPRESENTATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    [ ] I am not represented by an attorney.
+    [ ] I am represented by an attorney but cannot pay court costs.
+
+    I declare under penalty of perjury that the above information is
+    true and correct.
+
+    Executed on {{filing_date}}.
+
+                                        _________________________________
+                                        {{plaintiff_name}}
+                                        {{plaintiff_address}}
+                                        {{attorney_phone}}
+
+────────────────────────────────────────────────────────────────────────────
+NOTE: If the Court grants this application, the case will be screened
+under 28 U.S.C. § 1915A before service on defendant.  Three dismissals
+for frivolousness, failure to state a claim, or malicious claims may
+result in the "three-strikes" bar to future IFP filings.  28 U.S.C. § 1915(g).
+────────────────────────────────────────────────────────────────────────────

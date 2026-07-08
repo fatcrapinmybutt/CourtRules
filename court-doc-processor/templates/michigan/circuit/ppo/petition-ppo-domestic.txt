@@ -1,0 +1,75 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{petitioner_name}},
+    Petitioner,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{respondent_name}},
+    Respondent.
+____________________________________/
+
+       EX PARTE PETITION FOR PERSONAL PROTECTION ORDER
+             (DOMESTIC RELATIONSHIP)
+       (MCR 3.310; MCL 600.2950)
+
+    Petitioner {{petitioner_name}} requests a Personal Protection Order
+    against Respondent {{respondent_name}}, and states:
+
+1.  PARTIES.  Petitioner resides at {{petitioner_address_safe}} (or address
+    is confidential for safety — see sealed address form).  Respondent
+    resides / last known address: {{respondent_address}}.
+
+2.  RELATIONSHIP.  The parties have/had a domestic relationship as follows:
+    [ ] Spouses / former spouses
+    [ ] Dating relationship (MCL 600.2950(1)(e))
+    [ ] Reside/resided in same household
+    [ ] Child in common
+    [ ] Other domestic relationship: {{other_relationship}}
+
+3.  ACTS OF VIOLENCE / THREATS / STALKING.  The following acts have occurred:
+
+    Date            Description
+    ──────────────────────────────────────────────────────────────────────
+    {{incident_date_1}}   {{incident_description_1}}
+    {{incident_date_2}}   {{incident_description_2}}
+    {{incident_date_3}}   {{incident_description_3}}
+    {{incident_date_4}}   {{incident_description_4}}
+
+4.  IMMEDIATE AND PRESENT DANGER.  Petitioner is in immediate and present
+    danger of domestic violence because: {{immediate_danger_basis}}.
+
+5.  RELIEF REQUESTED.  Petitioner requests that Respondent be ordered to:
+    [ ] Not assault, attack, beat, molest, wound, or threaten Petitioner
+    [ ] Not stalk, follow, or interfere with Petitioner
+    [ ] Stay away from Petitioner's residence: {{petitioner_residence}}
+    [ ] Stay away from Petitioner's workplace: {{petitioner_workplace}}
+    [ ] Stay away from the children's school(s): {{school_name}}
+    [ ] Not contact Petitioner by any means
+    [ ] Surrender firearms (MCL 600.2950(1)(l))
+    [ ] Other: {{other_ppo_relief}}
+
+6.  MINOR CHILDREN.  The following minor children may be endangered:
+    {{children_at_risk}}
+
+7.  PRIOR PROCEEDINGS.  {{prior_ppo_proceedings}}
+
+8.  EX PARTE RELIEF.  Petitioner requests that this PPO issue ex parte
+    (without notice) because immediate and irreparable injury will result
+    before Respondent can be heard.  MCR 3.310(B); MCL 600.2950(12).
+
+    I declare under penalty of perjury that the foregoing is true and correct.
+
+
+    _________________________________  Date: _____________
+    {{petitioner_name}}, Petitioner
+
+
+                                        Respectfully submitted,
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Petitioner
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

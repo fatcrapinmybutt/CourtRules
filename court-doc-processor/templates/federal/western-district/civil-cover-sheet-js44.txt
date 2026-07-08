@@ -1,0 +1,82 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CIVIL COVER SHEET (JS-44)
+U.S. District Court — Western District of Michigan
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOTE: This is a text representation of the JS-44 Civil Cover Sheet.
+The official form must be completed at: https://www.miwd.uscourts.gov
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I.  (a) PLAINTIFFS                    (b) DEFENDANTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{{plaintiff_name}}                    {{defendant_name}}
+
+County of Plaintiff:  {{county}}      County of Defendant: {{defendant_county}}
+
+Plaintiff's Attorney:                 Defendant's Attorney (if known):
+{{plaintiff_attorney_name}}           {{defendant_attorney_name}}
+{{attorney_address}}                  {{defendant_attorney_address}}
+{{attorney_phone}}                    {{defendant_attorney_phone}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+II.  BASIS OF JURISDICTION (check one)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] 1. U.S. Government Plaintiff
+[ ] 2. U.S. Government Defendant
+[X] 3. Federal Question
+[ ] 4. Diversity of Citizenship
+    Basis: {{jurisdiction_basis}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+III.  CITIZENSHIP OF PRINCIPAL PARTIES (Diversity only)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Plaintiff: Citizen of {{plaintiff_state}}
+Defendant: Citizen of {{defendant_state}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IV.  NATURE OF SUIT (check one — see instructions)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] 110 Insurance         [ ] 310 Airplane
+[ ] 120 Marine            [ ] 315 Airplane Product Liability
+[ ] 130 Miller Act        [ ] 320 Assault, Libel & Slander
+[ ] 140 Negotiable Instr. [ ] 330 Federal Employers' Liability
+[ ] 150 Recovery of Overpay [ ] 340 Marine
+[ ] 160 Stockholder Suits [ ] 350 Motor Vehicle
+[ ] 190 Other Contract    [ ] 360 Other Personal Injury
+[ ] 195 Contract Product Liability  [ ] 362 Personal Injury — Med. Malpractice
+[ ] 440 Other Civil Rights
+[ ] 441 Voting            [ ] 442 Employment
+[ ] 443 Housing/Accommodations      [ ] 445 ADA — Employment
+[ ] 446 ADA — Other       [ ] 448 Education
+[ ] 550 Civil Rights      [X] {{nature_of_suit_code}} {{nature_of_suit_description}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+V.  ORIGIN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[X] 1. Original Proceeding
+[ ] 2. Removed from State Court
+[ ] 3. Remanded from Appellate Court
+[ ] 4. Reinstated or Reopened
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VI.  CAUSE OF ACTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Cite U.S. civil statute under which you are filing:  {{us_statute}}
+Brief description of cause:  {{cause_of_action}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VII.  REQUESTED IN COMPLAINT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] Check if class action under FRCP 23
+Demand: ${{amount_claimed}}
+[ ] Jury Demand: YES  [ ] NO
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VIII.  RELATED CASE(S) IF ANY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Related Case No.: {{related_case_number}}
+Judge: {{related_case_judge}}
+
+Date: {{filing_date}}
+Signature of Attorney: _________________________________
+                       {{plaintiff_attorney_name}}

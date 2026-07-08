@@ -1,0 +1,74 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                                    ANSWER
+                          TO PLAINTIFF'S COMPLAINT
+
+    Defendant {{defendant_name}}, by and through counsel {{defendant_attorney_name}},
+    hereby answers Plaintiff's Complaint as follows:
+
+                            GENERAL ALLEGATIONS
+
+1.  {{response_to_paragraph_1}}
+
+2.  {{response_to_paragraph_2}}
+
+3.  {{response_to_paragraph_3}}
+
+4.  {{response_to_paragraph_4}}
+
+5.  {{response_to_paragraph_5}}
+
+                      RESPONSE TO COUNT I — {{count_i_heading}}
+
+6.  {{response_count_i_1}}
+
+7.  {{response_count_i_2}}
+
+8.  {{response_count_i_3}}
+
+                              AFFIRMATIVE DEFENSES
+
+    Without admitting any allegation of the Complaint, Defendant states the
+    following affirmative defenses:
+
+    FIRST AFFIRMATIVE DEFENSE — {{affirmative_defense_1}}
+
+    SECOND AFFIRMATIVE DEFENSE — {{affirmative_defense_2}}
+
+    THIRD AFFIRMATIVE DEFENSE — {{affirmative_defense_3}}
+
+    FOURTH AFFIRMATIVE DEFENSE — Plaintiff has failed to state a claim upon
+    which relief may be granted. MCR 2.116(C)(8).
+
+    FIFTH AFFIRMATIVE DEFENSE — {{affirmative_defense_5}}
+
+                            RELIEF REQUESTED
+
+    WHEREFORE, Defendant {{defendant_name}} respectfully requests that this
+    Honorable Court:
+
+    a.  Dismiss Plaintiff's Complaint with prejudice;
+    b.  Award Defendant costs and attorney fees;
+    c.  Grant such other and further relief as the Court deems just and proper.
+
+                                        Respectfully submitted,
+
+                                        {{attorney_firm}}
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{defendant_attorney_name}}
+                                        Attorney for Defendant
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{defendant_attorney_bar}}

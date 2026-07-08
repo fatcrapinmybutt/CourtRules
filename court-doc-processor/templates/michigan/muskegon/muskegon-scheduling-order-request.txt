@@ -1,0 +1,57 @@
+STATE OF MICHIGAN
+IN THE 14th CIRCUIT COURT FOR THE COUNTY OF MUSKEGON
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+    REQUEST FOR SCHEDULING / PRETRIAL CONFERENCE
+    (Muskegon County 14th Circuit Court Local Practice)
+
+    Pursuant to MCR 2.401 and the local practice of the 14th Circuit Court
+    for Muskegon County, {{requesting_party}} requests a scheduling conference
+    with the Court to address the following:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROPOSED SCHEDULING ORDER DATES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Discovery Cutoff:               {{proposed_discovery_cutoff}}
+Expert Witness Disclosures:     {{proposed_expert_deadline}}
+Dispositive Motion Deadline:    {{proposed_motion_deadline}}
+Final Pretrial Conference:      {{proposed_pretrial_conference}}
+Trial Date (requested):         {{proposed_trial_date}}
+Estimated Trial Length:         {{estimated_trial_length}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JUDGE ASSIGNMENTS — MUSKEGON COUNTY 14TH CIRCUIT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Assigned Judge:       {{judge_name}}
+Courtroom:            {{courtroom_number}}
+Judge's Phone:        (231) 724-6xxx (check current listing)
+Clerk contact:        (231) 724-6251
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CASE STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Complaint filed:      {{filing_date}}
+Defendant served:     {{service_date}}
+Answer filed:         {{answer_filed_date}}
+Pending motions:      {{pending_motions_description}}
+ADR status:           {{adr_status}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES / SPECIAL CONSIDERATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{{scheduling_notes}}
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{requesting_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

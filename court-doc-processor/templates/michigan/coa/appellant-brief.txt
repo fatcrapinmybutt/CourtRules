@@ -1,0 +1,121 @@
+STATE OF MICHIGAN
+IN THE COURT OF APPEALS
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          COA Case No. {{coa_case_number}}
+                                            LC Case No. {{lower_court_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+              APPELLANT'S BRIEF ON APPEAL
+              (MCR 7.210; MCR 7.212)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TABLE OF CONTENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Index of Authorities ......................................... ii
+    Statement Regarding Oral Argument ........................... iv
+    Jurisdictional Statement ..................................... 1
+    Questions Presented .......................................... 1
+    Statement of Facts ........................................... 2
+    Standard of Review ........................................... 4
+    Argument ..................................................... 5
+        I.   {{argument_heading_i}} .............................. 5
+        II.  {{argument_heading_ii}} ............................. 8
+        III. {{argument_heading_iii}} ........................... 11
+    Conclusion .................................................. 14
+    Certificate of Compliance ................................... 15
+    Certificate of Service ...................................... 15
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INDEX OF AUTHORITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Cases:
+    {{case_citation_1}} .......................................  {{page_ref_1}}
+    {{case_citation_2}} .......................................  {{page_ref_2}}
+    {{case_citation_3}} .......................................  {{page_ref_3}}
+
+Statutes & Rules:
+    MCR {{rule_citation_1}} ...................................  {{page_ref_4}}
+    MCL {{statute_citation_1}} ................................  {{page_ref_5}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATEMENT REGARDING ORAL ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Appellant [ ] requests  [ ] does not request  oral argument because:
+    {{oral_argument_statement}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JURISDICTIONAL STATEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    The Michigan Court of Appeals has jurisdiction pursuant to MCR
+    7.203(A)(1).  The final judgment was entered on {{order_entry_date}}.
+    This Claim of Appeal was filed on {{appeal_filed_date}}, within the
+    21-day period required by MCR 7.204(A)(1).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUESTIONS PRESENTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    I.   {{question_presented_1}}
+         Appellant answers:  YES.
+
+    II.  {{question_presented_2}}
+         Appellant answers:  YES.
+
+    III. {{question_presented_3}}
+         Appellant answers:  YES.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATEMENT OF FACTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{statement_of_facts}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STANDARD OF REVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{standard_of_review}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I.  {{argument_heading_i}}
+
+    {{argument_i_text}}
+
+II.  {{argument_heading_ii}}
+
+    {{argument_ii_text}}
+
+III.  {{argument_heading_iii}}
+
+    {{argument_iii_text}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONCLUSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    For the foregoing reasons, Appellant {{plaintiff_name}} respectfully
+    requests that this Court {{requested_appellate_relief}}.
+
+                                        Respectfully submitted,
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff-Appellant
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATE OF COMPLIANCE (MCR 7.212(B))
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    I certify that this brief complies with MCR 7.212(B) and does not
+    exceed 50 pages / 16,000 words (circle applicable).
+    Word count (if applicable): {{word_count}}
+
+    _________________________________
+    {{plaintiff_attorney_name}}

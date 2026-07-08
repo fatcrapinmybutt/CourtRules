@@ -1,0 +1,62 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+FAMILY DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+         MOTION REGARDING PARENTING TIME
+         (MCR 3.212; MCL 722.27a; FOC Form 51 Style)
+
+    NOW COMES {{moving_party}} and moves for an Order regarding parenting
+    time, and states:
+
+1.  The parties' current parenting time order provides: {{current_parenting_time}}.
+
+2.  {{moving_party}} requests the following parenting time change:
+    {{requested_parenting_time}}
+
+3.  BASIS FOR MODIFICATION.  Since entry of the last parenting time order:
+    a.  {{parenting_time_change_1}}
+    b.  {{parenting_time_change_2}}
+    c.  {{parenting_time_change_3}}
+
+4.  PARENTING TIME DENIAL.  The following violations of the current order have
+    occurred (if applicable):
+    Date        Description
+    ─────────────────────────────────────────────────────────────────
+    {{denial_date_1}}   {{denial_description_1}}
+    {{denial_date_2}}   {{denial_description_2}}
+    {{denial_date_3}}   {{denial_description_3}}
+
+5.  MAKEUP TIME.  {{moving_party}} requests makeup parenting time for denied
+    parenting time pursuant to MCL 722.27a(7).
+
+6.  BEST INTERESTS.  The requested parenting time is in the best interests of
+    the minor children because: {{best_interests_parenting_time}}.
+
+    WHEREFORE, {{moving_party}} requests an Order:
+    a.  Establishing parenting time as described above;
+    b.  Awarding makeup parenting time for {{number_of_denied_visits}} missed visits;
+    c.  {{additional_parenting_time_relief}};
+    d.  Awarding attorney fees pursuant to MCL 722.27a(10).
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+VERIFICATION
+
+    _________________________________  Date: _____________
+    {{moving_party}}
+────────────────────────────────────────────────────────────────────────────

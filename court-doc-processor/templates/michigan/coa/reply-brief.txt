@@ -1,0 +1,53 @@
+STATE OF MICHIGAN
+IN THE COURT OF APPEALS
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          COA Case No. {{coa_case_number}}
+                                            LC Case No. {{lower_court_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+         APPELLANT'S REPLY BRIEF
+         (MCR 7.210(B)(3))
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTRODUCTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{reply_introduction}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I.  {{reply_argument_heading_i}}
+
+    {{reply_argument_i}}
+
+II.  {{reply_argument_heading_ii}}
+
+    {{reply_argument_ii}}
+
+III.  APPELLEE'S REMAINING ARGUMENTS LACK MERIT.
+
+    {{reply_argument_iii}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONCLUSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    For these reasons and those in Appellant's opening brief, this Court
+    should {{requested_appellate_relief}}.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff-Appellant
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+DEADLINE: Reply brief due 21 days after service of Appellee's brief.
+(MCR 7.210(B)(3)).  Maximum 10 pages / 3,200 words.
+────────────────────────────────────────────────────────────────────────────

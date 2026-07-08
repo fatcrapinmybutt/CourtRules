@@ -1,0 +1,138 @@
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE SIXTH CIRCUIT
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          Case No. {{coa_case_number}}
+                                            (D.C. No. {{case_number}})
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+              BRIEF OF PLAINTIFF-APPELLANT
+              (6 Cir. R. 28; FRAP 28)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TABLE OF CONTENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Corporate Disclosure Statement (6 Cir. R. 26.1) ............... i
+    Table of Contents .............................................. ii
+    Table of Authorities ........................................... iv
+    Statement Regarding Oral Argument .............................. vi
+    Jurisdictional Statement ........................................ 1
+    Statement of Issues Presented for Review ........................ 2
+    Statement of the Case ........................................... 3
+    Summary of Argument ............................................ 5
+    Argument ........................................................ 6
+        I.   {{argument_heading_i}} ................................ 6
+        II.  {{argument_heading_ii}} ............................... 11
+        III. {{argument_heading_iii}} .............................. 15
+    Conclusion ...................................................... 20
+    Certificate of Compliance ...................................... 21
+    Certificate of Service ......................................... 21
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CORPORATE DISCLOSURE STATEMENT (6 CIR. R. 26.1)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{corporate_disclosure_statement}}
+    (State: "None" if individual; identify parent companies and 10%+
+     shareholders if corporate party)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TABLE OF AUTHORITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Cases:
+    {{case_citation_1}} ...........................................  {{page_ref_1}}
+    {{case_citation_2}} ...........................................  {{page_ref_2}}
+    {{case_citation_3}} ...........................................  {{page_ref_3}}
+
+Statutes:
+    28 U.S.C. § {{statute_section_1}} ............................  {{page_ref_4}}
+    {{statute_citation_2}} ........................................  {{page_ref_5}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATEMENT REGARDING ORAL ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Appellant [ ] requests [ ] does not request oral argument.
+    {{oral_argument_statement}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JURISDICTIONAL STATEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Subject matter jurisdiction: The District Court had jurisdiction pursuant
+    to {{district_court_jurisdiction_basis}}.
+
+    Appellate jurisdiction: This Court has jurisdiction pursuant to
+    28 U.S.C. § 1291 (final judgment) OR § 1292 (interlocutory order).
+
+    Timeliness: The final judgment was entered on {{order_entry_date}}.
+    The Notice of Appeal was filed on {{appeal_filed_date}}, within the
+    {{appeal_time_limit}}-day period required by FRAP 4(a)(1)(A).
+
+    Final judgment: The order appealed is a final judgment because
+    {{final_judgment_statement}}.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATEMENT OF ISSUES PRESENTED FOR REVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    I.   {{question_presented_1}}
+
+    II.  {{question_presented_2}}
+
+    III. {{question_presented_3}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATEMENT OF THE CASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{statement_of_facts}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUMMARY OF ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    {{summary_of_argument}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STANDARD OF REVIEW: {{standard_of_review}}
+
+I.  {{argument_heading_i}}
+
+    {{argument_i_text}}
+
+II.  {{argument_heading_ii}}
+
+    {{argument_ii_text}}
+
+III.  {{argument_heading_iii}}
+
+    {{argument_iii_text}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONCLUSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    For the foregoing reasons, Appellant respectfully requests that this
+    Court {{requested_appellate_relief}}.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Plaintiff-Appellant
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATE OF COMPLIANCE (FRAP 32(g); 6 CIR. R. 32)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    This brief complies with the type-volume limitation of FRAP 32(a)(7)(B)
+    because it contains {{word_count}} words, excluding the parts of the
+    brief exempted by FRAP 32(f).
+
+    This brief complies with the typeface requirements of FRAP 32(a)(5)
+    and the type-style requirements of FRAP 32(a)(6) (14-point font).
+
+    _________________________________
+    {{plaintiff_attorney_name}}
+    Date: {{filing_date}}

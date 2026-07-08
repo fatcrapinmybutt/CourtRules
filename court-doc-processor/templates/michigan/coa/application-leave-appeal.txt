@@ -1,0 +1,83 @@
+STATE OF MICHIGAN
+IN THE COURT OF APPEALS
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          COA Case No. {{coa_case_number}}
+                                            LC Case No. {{lower_court_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+             APPLICATION FOR LEAVE TO APPEAL
+             (MCR 7.205)
+
+TO: Clerk of the Michigan Court of Appeals
+
+    {{plaintiff_name}} applies for leave to appeal from the order of the
+    {{lower_court_name}} entered on {{order_entry_date}}.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I.  QUESTIONS PRESENTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    1.  {{question_presented_1}}
+
+    2.  {{question_presented_2}}
+
+    3.  {{question_presented_3}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+II.  STATEMENT OF FACTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    {{statement_of_facts}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+III.  ARGUMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+A.  {{argument_heading_a}}
+
+    {{argument_a_text}}
+
+B.  {{argument_heading_b}}
+
+    {{argument_b_text}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IV.  GROUNDS FOR GRANTING LEAVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    Leave to appeal should be granted because: (check applicable)
+    [ ] The lower court's ruling conflicts with MCR 7.203 jurisdiction
+    [ ] The issue is of significant public interest
+    [ ] The order is interlocutory and appellant will suffer substantial
+        harm if appeal is delayed
+    [ ] {{other_leave_grounds}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+V.  APPENDIX (Attached)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    Exhibit A:  Copy of Order being appealed
+    Exhibit B:  Copy of trial court docket
+    Exhibit C:  {{exhibit_c_description}}
+
+    WHEREFORE, Applicant requests that the Court grant leave to appeal.
+
+                                        Respectfully submitted,
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Applicant
+                                        {{attorney_address}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+DEADLINE: Application must be filed within 21 days of order (delayed
+application within 12 months with good cause — MCR 7.205(A)).
+────────────────────────────────────────────────────────────────────────────

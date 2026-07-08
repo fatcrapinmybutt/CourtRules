@@ -1,0 +1,104 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+FAMILY DIVISION
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                     JUDGMENT OF DIVORCE
+                     (MCL 552.6; MCR 3.211)
+
+    At a session of said Court held on {{hearing_date}}, before the
+    Honorable {{judge_name}}, Circuit Court Judge.
+
+    The parties appeared personally {{appearance_description}}.  The Court
+    having considered the testimony and evidence, and being fully advised:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I.  DIVORCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    IT IS ORDERED that the bonds of matrimony between the parties are
+    DISSOLVED effective {{divorce_effective_date}}.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+II.  CUSTODY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    IT IS ORDERED that:
+    Legal Custody:    {{legal_custody_arrangement}}
+    Physical Custody: {{physical_custody_arrangement}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+III.  PARENTING TIME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    IT IS ORDERED that parenting time shall be as follows:
+    {{parenting_time_schedule}}
+
+    Holiday Schedule: {{holiday_schedule}}
+    Summer Schedule:  {{summer_schedule}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IV.  CHILD SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    IT IS ORDERED that {{payor_name}} shall pay child support of
+    ${{support_amount}} per month, commencing {{support_start_date}}.
+    Support to be paid through the Michigan State Disbursement Unit (MiSDU).
+    MCL 552.604.
+
+    Healthcare: {{health_insurance_provision}}
+    Tax Exemptions: {{tax_exemption_provision}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+V.  SPOUSAL SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    IT IS ORDERED that {{spousal_support_payor}} shall pay spousal support
+    in the amount of ${{spousal_support_amount}} per month, commencing
+    {{spousal_support_start_date}}, and continuing until {{spousal_support_end}}.
+    (OR: Spousal support is waived by both parties.)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VI.  PROPERTY DIVISION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    Real Property: {{real_property_division}}
+    Personal Property: {{personal_property_division}}
+    Financial Accounts: {{financial_accounts_division}}
+    Retirement Accounts: {{retirement_division}}
+    Debts: {{debt_division}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VII.  NAME CHANGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    IT IS ORDERED that {{name_change_party}}'s name is restored to
+    {{former_name}}.  (Or: No name change requested.)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VIII.  ATTORNEY FEES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    {{attorney_fees_provision}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IX.  FRIEND OF THE COURT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    The Friend of the Court shall continue to have jurisdiction to enforce
+    this Order and monitor compliance with support obligations.
+
+    DATED: ______________________________
+
+
+                                        _________________________________
+                                        HON. {{judge_name}}
+                                        {{county}} County Circuit Judge

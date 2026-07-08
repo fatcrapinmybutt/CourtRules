@@ -1,0 +1,54 @@
+STATE OF MICHIGAN
+IN THE COURT OF APPEALS
+
+{{plaintiff_name}},
+    Plaintiff-Appellant,
+
+v.                                          COA Case No. {{coa_case_number}}
+                                            LC Case No. {{lower_court_case_number}}
+{{defendant_name}},
+    Defendant-Appellee.
+____________________________________/
+
+         MOTION FOR RECONSIDERATION
+         (MCR 7.217)
+
+    NOW COMES {{moving_party}}, and pursuant to MCR 7.217, moves this
+    Court to reconsider its Opinion / Order issued on {{coa_decision_date}}.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POINTS OF LAW OR FACT OVERLOOKED OR MISAPPREHENDED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.  The Court overlooked / misapprehended the following:
+
+    ISSUE 1: {{reconsideration_issue_1}}
+
+    The Court stated: "{{court_statement_1}}"
+
+    However, the correct rule / fact is: {{correct_rule_or_fact_1}}
+
+    ISSUE 2: {{reconsideration_issue_2}}
+
+    {{reconsideration_argument_2}}
+
+2.  {{additional_reconsideration_argument}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RELIEF REQUESTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    WHEREFORE, {{moving_party}} requests that this Court reconsider its
+    Opinion/Order and {{requested_reconsideration_relief}}.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{moving_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}
+
+────────────────────────────────────────────────────────────────────────────
+DEADLINE: Must be filed within 21 days of the COA opinion/order.
+Maximum 5 pages.  No new arguments unless extraordinary circumstances.
+MCR 7.217.
+────────────────────────────────────────────────────────────────────────────

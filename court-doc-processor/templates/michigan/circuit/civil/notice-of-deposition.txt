@@ -1,0 +1,45 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                        NOTICE OF DEPOSITION
+                          (MCR 2.306(B))
+
+TO: All Parties and Their Counsel of Record
+
+    PLEASE TAKE NOTICE that pursuant to MCR 2.306, {{noticing_party}} will
+    take the deposition upon oral examination of:
+
+    DEPONENT:   {{deponent_name}}
+                {{deponent_title_employer}}
+
+    DATE:       {{hearing_date}}
+
+    TIME:       {{hearing_time}}
+
+    LOCATION:   {{deposition_location}}
+
+    The deposition will be recorded by {{recording_method}} (stenographic
+    reporter / video / audio — circle applicable) before an officer duly
+    authorized to administer oaths.
+
+    The deponent is also requested to bring to the deposition all documents
+    and tangible things described in the attached Deposition Subpoena / or
+    the following:  {{documents_to_bring}}.
+
+    The deposition will continue from day to day until complete.
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for {{noticing_party}}
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

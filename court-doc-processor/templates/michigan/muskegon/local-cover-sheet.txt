@@ -1,0 +1,73 @@
+STATE OF MICHIGAN
+IN THE 14th CIRCUIT COURT FOR THE COUNTY OF MUSKEGON
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+         MUSKEGON COUNTY 14TH CIRCUIT COURT
+              CASE INFORMATION / COVER SHEET
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CASE TYPE (check one):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] Civil — General (CZ)       [ ] Civil — No-Fault Auto (NI)
+[ ] Civil — Medical Malpractice (NH)  [ ] Civil — Products Liability (NP)
+[ ] Domestic Relations — Divorce (DO/DM)
+[ ] Domestic Relations — Custody/Paternity (DP)
+[ ] Domestic Relations — PPO (PP)
+[ ] Probate / Mental Health
+[ ] Criminal — Felony (CF)
+[ ] Other: {{other_case_type}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PLAINTIFF / PETITIONER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Name:           {{plaintiff_name}}
+Address:        {{plaintiff_address}}
+Phone:          {{plaintiff_phone}}
+Attorney:       {{plaintiff_attorney_name}}
+Bar No.:        {{plaintiff_attorney_bar}}
+Firm:           {{attorney_firm}}
+Firm Address:   {{attorney_address}}
+Phone:          {{attorney_phone}}
+Email:          {{attorney_email}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DEFENDANT / RESPONDENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Name:           {{defendant_name}}
+Address:        {{defendant_address}}
+Phone:          {{defendant_phone}}
+Attorney:       {{defendant_attorney_name}}
+Bar No.:        {{defendant_attorney_bar}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FILING INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Date Filed:         {{filing_date}}
+Judge Assigned:     {{judge_name}}
+Related Case No.:   {{related_case_number}}
+Filing Fee Paid:    ${{filing_fee_paid}}
+Fee Waiver:         [ ] Yes  [ ] No (IFP Application Filed: [ ] Yes [ ] No)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MUSKEGON COUNTY COURTHOUSE FILING LOCATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Circuit Court Clerk:  990 Terrace St, Muskegon, MI 49442
+Phone: (231) 724-6251
+Hours: Monday–Friday, 8:00 AM – 5:00 PM
+E-Filing: Available through Michigan Courts E-Filing (TrueFiling)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATION
+
+I certify that this information is true and accurate.
+
+    _________________________________  Date: _____________
+    {{plaintiff_attorney_name}} / {{plaintiff_name}}

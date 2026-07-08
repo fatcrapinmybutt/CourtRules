@@ -1,0 +1,61 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{petitioner_name}},
+    Petitioner,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{respondent_name}},
+    Respondent.
+____________________________________/
+
+    EX PARTE PETITION FOR PERSONAL PROTECTION ORDER
+                  (NON-DOMESTIC / STALKING)
+    (MCR 3.310; MCL 600.2950a — Stalking)
+
+    Petitioner {{petitioner_name}} requests a Personal Protection Order
+    against Respondent {{respondent_name}} for stalking, and states:
+
+1.  PARTIES.  Petitioner: {{petitioner_name}}, {{petitioner_address_safe}}.
+    Respondent: {{respondent_name}}, last known at {{respondent_address}}.
+
+2.  STALKING CONDUCT.  Respondent has engaged in a course of conduct that
+    would cause a reasonable person to feel terrorized, frightened,
+    intimidated, threatened, harassed, or molested (MCL 750.411h):
+
+    Date            Description of Stalking Conduct
+    ──────────────────────────────────────────────────────────────────────
+    {{incident_date_1}}   {{incident_description_1}}
+    {{incident_date_2}}   {{incident_description_2}}
+    {{incident_date_3}}   {{incident_description_3}}
+    {{incident_date_4}}   {{incident_description_4}}
+    {{incident_date_5}}   {{incident_description_5}}
+
+3.  ELECTRONIC MONITORING / CYBERSTALKING (if applicable):
+    {{electronic_monitoring_description}}
+
+4.  PETITIONER'S EMOTIONAL RESPONSE.  Petitioner experienced:
+    {{petitioner_emotional_response}}
+
+5.  RELIEF REQUESTED:
+    [ ] Prohibit Respondent from following/approaching/contacting Petitioner
+    [ ] Stay away from Petitioner's residence, workplace, school
+    [ ] Prohibit electronic contact
+    [ ] Surrender firearms
+    [ ] Other: {{other_stalking_ppo_relief}}
+
+6.  EX PARTE JUSTIFICATION.  Immediate and irreparable injury will result
+    before Respondent can be heard because: {{ex_parte_justification}}.
+
+    I declare under penalty of perjury that the foregoing is true and correct.
+
+    _________________________________  Date: _____________
+    {{petitioner_name}}, Petitioner
+
+Dated: {{filing_date}}
+                                        _________________________________
+                                        {{plaintiff_attorney_name}}
+                                        Attorney for Petitioner (if represented)
+                                        {{attorney_phone}}
+                                        Bar No. {{plaintiff_attorney_bar}}

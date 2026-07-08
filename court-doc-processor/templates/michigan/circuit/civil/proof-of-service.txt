@@ -1,0 +1,56 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF {{county}}
+
+{{plaintiff_name}},
+    Plaintiff,
+
+v.                                          Case No. {{case_number}}
+                                            Hon. {{judge_name}}
+{{defendant_name}},
+    Defendant.
+____________________________________/
+
+                          PROOF OF SERVICE
+                          (MCR 2.104)
+
+I, {{server_name}}, state that:
+
+1.  On {{service_date}}, I served the following document(s) on
+    {{served_on}}:
+
+    [ ] Summons and Complaint
+    [ ] Motion and Brief: {{motion_subject}}
+    [ ] Notice of Hearing
+    [ ] Proposed Order
+    [ ] {{other_documents_served}}
+
+2.  Service was accomplished by the following method (check all that apply):
+
+    [ ] PERSONAL SERVICE — I personally handed the documents to
+        {{served_on}} at {{service_address}}.
+
+    [ ] RESIDENCE SERVICE — I left the documents with {{person_accepting}}
+        a person of suitable age and discretion, at {{served_on}}'s residence
+        located at {{service_address}}.
+
+    [ ] FIRST-CLASS MAIL — I mailed the documents to the last known address
+        of {{served_on}} at {{service_address}}.
+
+    [ ] E-FILING SYSTEM / EMAIL — Documents transmitted electronically to
+        {{service_email}} at {{service_time}} on {{service_date}}.
+
+    [ ] OTHER: {{other_service_method}}
+
+3.  At the time of service, I was not a party to this action, was at least
+    18 years of age, and am legally competent to serve process.
+    MCR 2.103(B).
+
+I declare that the statements above are true to the best of my information,
+knowledge, and belief.  MCR 1.109(D)(3)(b).
+
+Dated: {{filing_date}}
+
+                                        _________________________________
+                                        {{server_name}}
+                                        {{server_address}}
+                                        {{server_phone}}
