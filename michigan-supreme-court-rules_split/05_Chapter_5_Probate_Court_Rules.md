@@ -1,0 +1,49 @@
+## Chapter 5 — Probate Court Rules
+
+- **MCR 5.001** — Applicability; Captions
+- **MCR 5.002** — Definitions
+- **MCR 5.101** — Commencement of Proceeding; Jurisdiction
+- **MCR 5.102** — Papers; Format
+- **MCR 5.103** — Service and Notice
+  - Subrule (A): Who must be served
+  - Subrule (B): Method of service
+  - Subrule (C): Proof of service
+- **MCR 5.104** — Interested Persons; Notice
+- **MCR 5.105** — Waiver of Notice
+- **MCR 5.106** — Adjournments
+- **MCR 5.107** — Petitions and Applications
+- **MCR 5.108** — Claims Against Estates
+- **MCR 5.109** — Supervised Administration
+- **MCR 5.110** — Summary Administration
+- **MCR 5.120** — Hearings; Evidence; Findings
+- **MCR 5.121** — Decrees and Orders
+- **MCR 5.122** — Interested Person's Objections
+- **MCR 5.123** — Independent Contests of Wills or Trusts
+- **MCR 5.125** — Interested Persons — Definitions
+- **MCR 5.126** — Orders; Service; Effective Date
+- **MCR 5.128** — Appeal of Decision of Probate Register
+- **MCR 5.131** — Jury Trials
+- **MCR 5.132** — Appeals
+- **MCR 5.140** — Discovery
+- **MCR 5.141** — Sanctions
+- **MCR 5.142** — Waiver of Full Administration
+- **MCR 5.143** — Personal Representative; Independent Administration
+- **MCR 5.144** — Personal Representative; Supervised Administration
+- **MCR 5.201** — Guardianship of Minor
+- **MCR 5.202** — Conservatorship of Minor
+- **MCR 5.401** — Guardianship/Conservatorship — Incapacitated Individuals
+  - Subrule (A): Petition
+  - Subrule (B): Notice
+  - Subrule (C): Visitor
+  - Subrule (D): Hearing
+  - Subrule (E): Order
+  - Subrule (F): Annual review
+- **MCR 5.404** — Settlements of Claims of Minors and Incompetents
+- **MCR 5.405** — Sale of Property
+- **MCR 5.406** — Accounting
+- **MCR 5.501** — Trust Proceedings
+- **MCR 5.502** — Trust Registration
+- **MCR 5.503** — Trustee Appointments
+- **MCR 5.504** — Judicial Review of Trustee Acts
+
+---

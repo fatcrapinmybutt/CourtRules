@@ -1,0 +1,37 @@
+## Chapter 1 — General Provisions
+
+- **MCR 1.101** — Title; Citation
+- **MCR 1.102** — Purpose and Construction
+- **MCR 1.103** — Applicability of Rules
+  - Subrule (A): Courts covered
+  - Subrule (B): Civil actions
+  - Subrule (C): Criminal proceedings
+  - Subrule (D): Special proceedings
+- **MCR 1.104** — Rules Applicable to All Proceedings
+- **MCR 1.105** — Definitions
+  - "Action"
+  - "Court"
+  - "Judge"
+  - "Party"
+  - "Pleading"
+  - "Process"
+- **MCR 1.106** — Computation of Time
+  - Subrule (A): Day counted
+  - Subrule (B): Last day falls on weekend/holiday
+  - Subrule (C): Extensions
+- **MCR 1.107** — Fees and Costs
+- **MCR 1.108** — Judges; Disqualification and Assignment
+  - Subrule (A): Grounds for disqualification
+  - Subrule (B): Motion procedure
+  - Subrule (C): Assignment of substitute judge
+- **MCR 1.109** — Court Records; Electronic Filing and Service
+  - Subrule (A): Definitions
+  - Subrule (B): Electronic filing system
+  - Subrule (C): Mandatory e-filing
+  - Subrule (D): Service via e-filing system
+  - Subrule (E): Signatures on electronic documents
+  - Subrule (F): Technical failures
+  - Subrule (G): Sealed, confidential records
+  - Subrule (H): Paper documents
+
+---

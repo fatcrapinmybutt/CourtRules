@@ -1,0 +1,42 @@
+## Chapter 9 — Professional Disciplinary Proceedings
+
+- **MCR 9.101** — Definitions
+- **MCR 9.102** — Purpose
+- **MCR 9.103** — Applicability
+- **MCR 9.104** — Grounds for Discipline
+  - Subrule (A): Specific acts
+  - Subrule (B): Criminal convictions
+- **MCR 9.105** — Jurisdiction
+- **MCR 9.106** — Penalties
+  - Subrule (A): Reprimand
+  - Subrule (B): Probation
+  - Subrule (C): Suspension
+  - Subrule (D): Disbarment
+  - Subrule (E): Restitution
+- **MCR 9.107** — Attorney Discipline Board
+- **MCR 9.108** — Grievance Administrator
+- **MCR 9.109** — Hearing Panel
+- **MCR 9.110** — Complaint; Investigation
+- **MCR 9.111** — Formal Complaint; Filing; Service
+- **MCR 9.112** — Default
+- **MCR 9.113** — Hearing
+  - Subrule (A): Notice
+  - Subrule (B): Conduct
+  - Subrule (C): Rules of evidence
+  - Subrule (D): Record
+- **MCR 9.114** — Decision of Hearing Panel
+- **MCR 9.115** — Order of Discipline
+- **MCR 9.116** — Appeal
+  - Subrule (A): By attorney
+  - Subrule (B): By administrator
+  - Subrule (C): Board review
+- **MCR 9.117** — Review by Supreme Court
+- **MCR 9.118** — Interim Suspension
+- **MCR 9.119** — Notice to Clients; Disposition of Matters
+- **MCR 9.120** — Reinstatement
+- **MCR 9.121** — Reciprocal Discipline
+- **MCR 9.122** — Disability Proceedings
+- **MCR 9.123** — Notice of Suspension or Disbarment
+- **MCR 9.124** — Confidentiality
+
+---

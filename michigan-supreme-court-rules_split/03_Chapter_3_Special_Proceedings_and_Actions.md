@@ -1,0 +1,84 @@
+## Chapter 3 — Special Proceedings and Actions
+
+- **MCR 3.101** — Garnishment After Judgment
+- **MCR 3.102** — Attachment
+- **MCR 3.103** — Claim and Delivery
+- **MCR 3.104** — Receivers
+- **MCR 3.105** — Actions Involving Real Property
+- **MCR 3.106** — Foreclosure of Mortgages and Land Contracts
+- **MCR 3.110** — Actions for Mandamus, Quo Warranto, or Certiorari
+- **MCR 3.111** — Habeas Corpus
+  - Subrule (A): Nature; availability
+  - Subrule (B): Petition requirements
+  - Subrule (C): Show cause order
+  - Subrule (D): Response
+  - Subrule (E): Hearing
+- **MCR 3.112** — Prosecuting Attorney; Attorney General in Civil Proceedings
+- **MCR 3.113** — Eminent Domain
+- **MCR 3.201** — Proceedings Affecting Children — General
+- **MCR 3.202** — Jurisdiction
+- **MCR 3.203** — Parties
+- **MCR 3.204** — Commencement; Process
+- **MCR 3.205** — Jurisdiction of Court
+- **MCR 3.206** — Pleadings; Domestic Relations Cases
+  - Subrule (A): Complaint requirements
+  - Subrule (B): Summons
+  - Subrule (C): Answer
+  - Subrule (D): Counterclaim
+- **MCR 3.207** — Temporary Orders in Domestic Relations Cases
+  - Subrule (A): Ex parte orders
+  - Subrule (B): Standards
+  - Subrule (C): Friend of the Court
+- **MCR 3.208** — Friend of the Court
+  - Subrule (A): Investigation and report
+  - Subrule (B): Objections to recommendation
+  - Subrule (C): Referee hearing
+- **MCR 3.209** — Domestic Relations Cases — Referee Hearings
+  - Subrule (A): Authority
+  - Subrule (B): Scheduling
+  - Subrule (C): Conduct of hearing
+  - Subrule (D): Report and recommendation
+  - Subrule (E): Review of referee recommendations
+- **MCR 3.210** — Hearings; Proof
+  - Subrule (A): Trials and hearings
+  - Subrule (B): Evidence
+- **MCR 3.211** — Judgments in Domestic Relations Cases
+  - Subrule (A): Contents
+  - Subrule (B): Child support
+  - Subrule (C): Spousal support
+  - Subrule (D): Property division
+  - Subrule (E): Custody and parenting time
+- **MCR 3.212** — Post-Judgment Relief in Domestic Relations Cases
+  - Subrule (A): Motion requirements
+  - Subrule (B): Modification of custody
+  - Subrule (C): Modification of support
+- **MCR 3.213** — Financial Disclosures in Domestic Relations Cases
+- **MCR 3.214** — Enforcement of Domestic Relations Orders
+- **MCR 3.215** — Domestic Relations Mediation
+- **MCR 3.216** — Domestic Relations Arbitration
+- **MCR 3.217** — Collaborative Law Procedure
+- **MCR 3.301** — Proceedings under the Juvenile Code (Abuse/Neglect)
+- **MCR 3.302** — Preliminary Procedure
+- **MCR 3.303** — Petition
+- **MCR 3.304** — Preliminary Hearing
+- **MCR 3.305** — Pretrial Hearings
+- **MCR 3.310** — Personal Protection Orders (PPO)
+  - Subrule (A): Issuance ex parte
+  - Subrule (B): Service
+  - Subrule (C): Motion to modify or terminate
+  - Subrule (D): Contempt for violation
+- **MCR 3.401** — Name Change
+- **MCR 3.501** — Class Actions *(parallel to 2.123)*
+- **MCR 3.601** — Quo Warranto
+- **MCR 3.901** — Traffic Cases
+- **MCR 3.920** — Rights of Parties in Juvenile Proceedings
+- **MCR 3.935** — Arraignment
+- **MCR 3.941** — Pleas of Admission or No Contest
+- **MCR 3.942** — Trial
+- **MCR 3.943** — Disposition
+- **MCR 3.944** — Probation Violation
+- **MCR 3.945** — Juvenile Facilities
+- **MCR 3.950** — Waiver of Jurisdiction; Designation Proceedings
+- **MCR 3.970** — Termination of Parental Rights
+
+---

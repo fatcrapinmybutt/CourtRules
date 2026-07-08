@@ -1,0 +1,113 @@
+## Chapter 6 — Criminal Procedure
+
+- **MCR 6.001** — Scope; Applicability
+- **MCR 6.002** — Purpose and Construction
+- **MCR 6.003** — Definitions
+- **MCR 6.004** — Speedy Trial
+- **MCR 6.005** — Right to Assistance of Counsel
+  - Subrule (A): Felonies
+  - Subrule (B): Misdemeanors
+  - Subrule (C): Waiver of counsel
+  - Subrule (D): Standards for appointed counsel
+- **MCR 6.006** — Video and Audio Proceedings
+- **MCR 6.010** — Issuance of Warrant or Summons
+- **MCR 6.020** — Arraignment on Warrant
+- **MCR 6.030** — Arraignment on Indictment
+- **MCR 6.101** — Felony Complaint
+  - Subrule (A): Form; content
+  - Subrule (B): Authorization
+  - Subrule (C): Filing
+- **MCR 6.102** — Arrest Warrant; Summons
+- **MCR 6.103** — Arrest Without Warrant
+- **MCR 6.104** — Arraignment on Complaint
+  - Subrule (A): Scheduling
+  - Subrule (B): Informing defendant of rights
+  - Subrule (C): Right to counsel
+  - Subrule (D): Bail
+- **MCR 6.106** — Pretrial Release
+  - Subrule (A): Release on personal recognizance
+  - Subrule (B): Conditional release
+  - Subrule (C): Deposit
+  - Subrule (D): Detention before trial
+  - Subrule (E): Review of pretrial release
+  - Subrule (F): Revocation or modification
+- **MCR 6.107** — Grand Jury Proceedings
+- **MCR 6.108** — Preliminary Examination
+  - Subrule (A): Scheduling
+  - Subrule (B): Conduct of examination
+  - Subrule (C): Bindover or dismissal
+- **MCR 6.110** — Preliminary Examination (Detailed)
+  - Subrule (A)–(J): Detailed procedural requirements
+- **MCR 6.111** — Waiver of Preliminary Examination
+- **MCR 6.112** — Indictment or Information
+  - Subrule (A): Charging instrument
+  - Subrule (B): Indictment requirements
+  - Subrule (C): Information requirements
+  - Subrule (D): Surplusage
+  - Subrule (E): Amendment
+- **MCR 6.113** — Arraignment on Indictment or Information
+- **MCR 6.120** — Joinder and Severance
+  - Subrule (A): Joinder of offenses
+  - Subrule (B): Joinder of defendants
+  - Subrule (C): Relief from prejudicial joinder
+- **MCR 6.201** — Discovery
+  - Subrule (A): Prosecutor's obligations
+  - Subrule (B): Defendant's obligations
+  - Subrule (C): Expert witnesses
+  - Subrule (D): Work product
+  - Subrule (E): Protective orders
+  - Subrule (F): Time for disclosure
+  - Subrule (G): Continuing duty to disclose
+  - Subrule (H): Failure to comply
+- **MCR 6.202** — Standard for Suppression Hearing
+- **MCR 6.301** — Pleas
+  - Subrule (A): Types of pleas
+  - Subrule (B): Advice to defendant
+  - Subrule (C): Voluntariness
+  - Subrule (D): Factual basis
+  - Subrule (E): Plea agreement
+  - Subrule (F): Withdrawal of plea
+- **MCR 6.302** — Plea of Guilty or No Contest
+- **MCR 6.303** — Plea of Nolo Contendere
+- **MCR 6.304** — Plea of Not Guilty by Reason of Insanity
+- **MCR 6.310** — Withdrawal of Plea
+- **MCR 6.401** — Trial by Jury or by Court
+- **MCR 6.402** — Waiver of Jury Trial
+- **MCR 6.410** — Jury Selection
+  - Subrule (A): Examination
+  - Subrule (B): Challenges
+  - Subrule (C): Alternate jurors
+- **MCR 6.411** — Number of Jurors
+- **MCR 6.412** — Selection of Jurors
+- **MCR 6.413** — Alternate Jurors
+- **MCR 6.414** — Conduct of Jury Trial
+- **MCR 6.419** — Motion for Directed Verdict of Acquittal
+- **MCR 6.420** — Verdict
+- **MCR 6.425** — Sentencing
+  - Subrule (A): Setting date
+  - Subrule (B): Presentence report
+  - Subrule (C): Review by parties
+  - Subrule (D): Sentencing hearing
+  - Subrule (E): Notification of rights
+  - Subrule (F): Probation
+- **MCR 6.427** — Judgment of Sentence
+- **MCR 6.428** — Correction of Sentence
+- **MCR 6.429** — Relief from Judgment
+- **MCR 6.430** — New Trial
+- **MCR 6.431** — Judgment Notwithstanding Verdict
+- **MCR 6.440** — Incompetence to Stand Trial
+- **MCR 6.445** — Probation Violation
+- **MCR 6.501** — Post-Conviction Proceedings (Motion for Relief from Judgment)
+  - Subrule (A): Applicability
+  - Subrule (B): Grounds
+  - Subrule (C): Procedure
+  - Subrule (D): Summary disposition
+  - Subrule (E): Evidentiary hearing
+  - Subrule (F): Appeal
+- **MCR 6.502** — Motion for Relief from Judgment (New Evidence/Actual Innocence)
+- **MCR 6.503** — Successive Motions for Relief from Judgment
+- **MCR 6.504** — DNA Testing to Establish Innocence
+- **MCR 6.505** — Forensic Testing
+- **MCR 6.506** — Appointment of Counsel in Post-Conviction
+
+---

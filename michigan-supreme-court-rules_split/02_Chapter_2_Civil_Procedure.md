@@ -1,0 +1,348 @@
+## Chapter 2 — Civil Procedure
+
+### Subchapter 2.100 — Commencement of Action; Service of Process; Pleadings; Motions
+
+- **MCR 2.101** — Form of Action
+- **MCR 2.102** — Summons; Expiration; Reissuance
+  - Subrule (A): Issuance
+  - Subrule (B): Expiration (91 days)
+  - Subrule (C): Reissuance
+  - Subrule (D): Dismissal on expiration
+- **MCR 2.103** — Process; Who May Serve
+  - Subrule (A): Sheriff or deputy
+  - Subrule (B): Any legally competent adult
+  - Subrule (C): Special process server
+- **MCR 2.104** — Process; Proof of Service
+  - Subrule (A): Proof required
+  - Subrule (B): Proof by affidavit
+  - Subrule (C): Failure of proof
+- **MCR 2.105** — Process; Manner of Service
+  - Subrule (A): Individuals
+    - Personal service
+    - Residence service
+    - Agent service
+  - Subrule (B): Minor
+  - Subrule (C): Incompetent person
+  - Subrule (D): Partnerships
+  - Subrule (E): Domestic corporations
+  - Subrule (F): Foreign corporations
+  - Subrule (G): Governmental entities
+  - Subrule (H): Incarcerated persons
+  - Subrule (I): Unknown/unincorporated associations
+- **MCR 2.106** — Notice by Posting or Publication
+  - Subrule (A): When allowed
+  - Subrule (B): Order requirements
+  - Subrule (C): Publication requirements
+  - Subrule (D): Mailing requirement
+- **MCR 2.107** — Service of Pleadings and Other Papers
+  - Subrule (A): Service required
+  - Subrule (B): Manner of service
+  - Subrule (C): Service by mail — when complete
+  - Subrule (D): Certificate of service
+- **MCR 2.108** — Time; Enlargement
+  - Subrule (A): Time to answer
+  - Subrule (B): Extensions by stipulation
+  - Subrule (C): Extensions by court order
+- **MCR 2.109** — Security for Costs
+- **MCR 2.110** — Pleadings
+  - Subrule (A): Kinds of pleadings allowed
+  - Subrule (B): Form requirements
+- **MCR 2.111** — General Rules of Pleading
+  - Subrule (A): Claim for relief
+  - Subrule (B): Short and plain statement
+  - Subrule (C): Affirmative defenses
+  - Subrule (D): Special matters
+  - Subrule (E): Pleading fraud or mistake
+  - Subrule (F): Pleading conditions precedent
+  - Subrule (G): Pleading official acts
+- **MCR 2.112** — Pleading Special Matters
+  - Subrule (A): Capacity
+  - Subrule (B): Fraud, mistake, condition of mind
+  - Subrule (C): Conditions precedent
+  - Subrule (D): Timing
+  - Subrule (E): Judgments
+  - Subrule (F): Special damages
+  - Subrule (G): Nonjoinder of party
+- **MCR 2.113** — Form of Pleadings and Other Papers
+  - Subrule (A): Caption
+  - Subrule (B): Signing
+  - Subrule (C): Paper and page requirements
+  - Subrule (D): Paragraphs
+- **MCR 2.114** — Signatures of Attorneys and Parties; Sanctions *(superseded in part by MCR 1.109)*
+  - Subrule (A): Signature required
+  - Subrule (B): Effect of signature
+  - Subrule (C): Sanctions for frivolous claims
+- **MCR 2.115** — Motion Practice — Defenses and Objections
+  - Subrule (A): Filing
+  - Subrule (B): Defenses raised by motion
+  - Subrule (C): Consolidation of defenses
+- **MCR 2.116** — Summary Disposition
+  - Subrule (C)(1): No jurisdiction over person
+  - Subrule (C)(2): No jurisdiction over subject matter
+  - Subrule (C)(3): Insufficiency of process
+  - Subrule (C)(4): Insufficiency of service
+  - Subrule (C)(5): Claim barred by prior judgment
+  - Subrule (C)(6): Failure to state a claim (on face of pleadings)
+  - Subrule (C)(7): Statute of limitations, immunity, etc.
+  - Subrule (C)(8): Failure to state a claim (no genuine issue)
+  - Subrule (C)(9): Opponent's claim is without merit
+  - Subrule (C)(10): No genuine issue of material fact — movant entitled to judgment as a matter of law
+  - Subrule (D): Motion standards
+  - Subrule (E): Timing
+  - Subrule (G): Order
+- **MCR 2.117** — Appearances
+  - Subrule (A): Appearance by attorney
+  - Subrule (B): Limited appearance
+  - Subrule (C): Withdrawal
+- **MCR 2.118** — Amended and Supplemental Pleadings
+  - Subrule (A): Amendments as of right
+  - Subrule (B): Amendments by leave
+  - Subrule (C): Relation back
+  - Subrule (D): Supplemental pleadings
+- **MCR 2.119** — Motion Practice
+  - Subrule (A): Form
+  - Subrule (B): Supporting brief
+  - Subrule (C): Response
+  - Subrule (D): Reply brief
+  - Subrule (E): Hearing
+  - Subrule (F): Ex parte orders
+- **MCR 2.120** — Intervention
+  - Subrule (A): Intervention of right
+  - Subrule (B): Permissive intervention
+  - Subrule (C): Procedure
+- **MCR 2.121** — Third-Party Practice
+- **MCR 2.122** — Interpleader
+- **MCR 2.123** — Class Actions
+  - Subrule (A): Prerequisites
+  - Subrule (B): Types of class actions
+  - Subrule (C): Certification order
+  - Subrule (D): Notice
+  - Subrule (E): Judgment
+- **MCR 2.124** — Capacity to Sue or be Sued
+- **MCR 2.125** — Substitution of Parties
+
+### Subchapter 2.200 — Parties; Joinder
+
+- **MCR 2.201** — Parties Plaintiff and Defendant; Capacity
+  - Subrule (A): Real party in interest
+  - Subrule (B): Capacity to sue
+  - Subrule (C): Actions by or against representative
+- **MCR 2.202** — Joinder of Claims and Remedies
+  - Subrule (A): Joinder of claims
+  - Subrule (B): Joinder of remedies
+- **MCR 2.203** — Compulsory Joinder
+  - Subrule (A): Compulsory claims
+  - Subrule (B): Compulsory counterclaims
+  - Subrule (C): Exceptions
+- **MCR 2.204** — Permissive Joinder of Parties
+  - Subrule (A): Plaintiffs
+  - Subrule (B): Defendants
+  - Subrule (C): Separate trials
+- **MCR 2.205** — Necessary Joinder of Parties
+  - Subrule (A): Persons to be joined
+  - Subrule (B): Determination when joinder not feasible
+- **MCR 2.206** — Misjoinder and Nonjoinder of Parties
+
+### Subchapter 2.300 — Disclosure and Discovery
+
+- **MCR 2.301** — Availability and Timing of Discovery
+  - Subrule (A): Methods
+  - Subrule (B): Scope
+  - Subrule (C): Timing
+- **MCR 2.302** — General Rules Governing Discovery
+  - Subrule (A): Scope — generally
+  - Subrule (B): Insurance agreements
+  - Subrule (C): Trial preparation — materials
+  - Subrule (D): Trial preparation — experts
+  - Subrule (E): Claims of privilege
+  - Subrule (F): Protective orders
+  - Subrule (G): Sequence of discovery
+  - Subrule (H): Supplementation of responses
+- **MCR 2.303** — Depositions Before Action or Pending Appeal
+- **MCR 2.304** — Persons Before Whom Depositions May Be Taken
+- **MCR 2.305** — Subpoena for Taking Deposition
+  - Subrule (A): Issuance
+  - Subrule (B): Service
+  - Subrule (C): Production of documents
+- **MCR 2.306** — Depositions on Oral Examination
+  - Subrule (A): When depositions may be taken
+  - Subrule (B): Notice
+  - Subrule (C): Examination and cross-examination
+  - Subrule (D): Recording
+  - Subrule (E): Signing, certification, and filing
+  - Subrule (F): Objections
+- **MCR 2.307** — Depositions on Written Questions
+- **MCR 2.308** — Use of Depositions
+  - Subrule (A): Use at trial
+  - Subrule (B): Objections
+- **MCR 2.309** — Interrogatories to Parties
+  - Subrule (A): Availability; number
+  - Subrule (B): Answers and objections
+  - Subrule (C): Scope
+  - Subrule (D): Option to produce records
+- **MCR 2.310** — Requests for Production of Documents
+  - Subrule (A): Scope
+  - Subrule (B): Procedure
+  - Subrule (C): Response
+- **MCR 2.311** — Physical and Mental Examination of Persons
+  - Subrule (A): Order for examination
+  - Subrule (B): Report of examination
+- **MCR 2.312** — Requests for Admission
+  - Subrule (A): Request
+  - Subrule (B): Response
+  - Subrule (C): Effect of admission
+  - Subrule (D): Withdrawal of admission
+- **MCR 2.313** — Failure to Provide or to Permit Discovery; Sanctions
+  - Subrule (A): Motion for order compelling discovery
+  - Subrule (B): Sanctions for failure to comply
+  - Subrule (C): Expenses on failure to admit
+  - Subrule (D): Failure to attend deposition
+- **MCR 2.314** — Discovery of Medical Information
+- **MCR 2.315** — Video Depositions
+
+### Subchapter 2.400 — Pretrial Procedure; Alternative Dispute Resolution
+
+- **MCR 2.401** — Pretrial Conferences
+  - Subrule (A): Scheduling conference
+  - Subrule (B): Pretrial conference subjects
+  - Subrule (C): Final pretrial conference
+  - Subrule (D): Orders
+  - Subrule (E): Sanctions for failure to attend
+- **MCR 2.402** — Use of Facsimile Communication Equipment
+- **MCR 2.403** — Case Evaluation (Formerly Mediation)
+  - Subrule (A): Scope
+  - Subrule (B): Objections
+  - Subrule (C): Selection of evaluators
+  - Subrule (D): Hearing
+  - Subrule (E): Evaluation and sanctions
+  - Subrule (F): Acceptance or rejection
+  - Subrule (G): Effect of acceptance
+  - Subrule (H): Sanctions for rejection
+  - Subrule (I): Costs and fees
+- **MCR 2.404** — Voluntary Facilitative Mediation
+- **MCR 2.405** — Offer to Stipulate to Entry of Judgment
+  - Subrule (A): Offer
+  - Subrule (B): Acceptance; effect
+  - Subrule (C): Rejection; costs
+- **MCR 2.406** — Video Proceedings
+
+### Subchapter 2.500 — Trials; Subpoenas
+
+- **MCR 2.501** — Scheduling Trials
+- **MCR 2.502** — Dismissal of Actions for Lack of Progress
+- **MCR 2.503** — Adjournments
+  - Subrule (A): By stipulation
+  - Subrule (B): By court order
+  - Subrule (C): For missing evidence
+- **MCR 2.504** — Dismissal of Actions
+  - Subrule (A): Voluntary dismissal
+  - Subrule (B): Involuntary dismissal
+  - Subrule (C): Dismissal without prejudice
+  - Subrule (D): Costs
+- **MCR 2.505** — Consolidation; Separate Trials
+- **MCR 2.506** — Subpoena; Order to Attend
+  - Subrule (A): For attendance at deposition
+  - Subrule (B): For attendance at trial/hearing
+  - Subrule (C): Service
+  - Subrule (D): Failure to obey
+- **MCR 2.507** — Conduct of Trials
+  - Subrule (A): Court to control proceedings
+  - Subrule (B): Opening statements
+  - Subrule (C): Closing arguments
+  - Subrule (D): Witnesses
+  - Subrule (E): Exhibits
+- **MCR 2.508** — Jury Trial of Right
+  - Subrule (A): Right preserved
+  - Subrule (B): Demand
+  - Subrule (C): Waiver
+  - Subrule (D): Issues triable
+- **MCR 2.509** — Trial by Jury or by the Court
+  - Subrule (A): By jury
+  - Subrule (B): By court
+  - Subrule (C): Advisory jury
+- **MCR 2.510** — Jurors
+  - Subrule (A): Selection
+  - Subrule (B): Number
+  - Subrule (C): Peremptory challenges
+  - Subrule (D): Alternate jurors
+  - Subrule (E): Oath
+- **MCR 2.511** — Impaneling the Jury
+  - Subrule (A): Examination of jurors
+  - Subrule (B): Challenges for cause
+  - Subrule (C): Peremptory challenges
+  - Subrule (D): Procedure for challenges
+- **MCR 2.512** — Instructions to Jury
+  - Subrule (A): Requests for instructions
+  - Subrule (B): Instructing the jury
+  - Subrule (C): Objections
+- **MCR 2.513** — Conduct of Jury Trial
+  - Subrule (A): Statement of issues
+  - Subrule (B): Preliminary instructions
+  - Subrule (C): Taking notes
+  - Subrule (D): Juror questions
+  - Subrule (E): Interim statements
+  - Subrule (F): Final instructions
+  - Subrule (G): Verdict
+- **MCR 2.514** — Verdicts
+  - Subrule (A): General verdict
+  - Subrule (B): Special verdict
+  - Subrule (C): General verdict with interrogatories
+  - Subrule (D): Inconsistent verdicts
+- **MCR 2.515** — Special Verdicts
+- **MCR 2.516** — Motion for Directed Verdict
+- **MCR 2.517** — Findings by Court
+  - Subrule (A): Requirements
+  - Subrule (B): Brief statement
+- **MCR 2.518** — Receipt and Return of Exhibits
+
+### Subchapter 2.600 — Judgments and Orders
+
+- **MCR 2.601** — Judgments
+  - Subrule (A): Entry
+  - Subrule (B): Form
+  - Subrule (C): Multiple claims
+- **MCR 2.602** — Entry of Judgments and Orders
+  - Subrule (A): Signing
+  - Subrule (B): Service of proposed order
+  - Subrule (C): Entry by court
+- **MCR 2.603** — Default and Default Judgment
+  - Subrule (A): Entry of default
+  - Subrule (B): Default judgment procedure
+  - Subrule (C): Setting aside default
+- **MCR 2.604** — Judgment in Actions Involving Multiple Claims or Parties
+- **MCR 2.605** — Declaratory Judgments
+- **MCR 2.610** — Motions — Judgment Notwithstanding Verdict (JNOV)
+  - Subrule (A): Timing
+  - Subrule (B): Standards
+- **MCR 2.611** — New Trials; Amendment of Judgment
+  - Subrule (A): Grounds
+  - Subrule (B): Time for motion
+  - Subrule (C): On court's initiative
+  - Subrule (D): Order granting
+- **MCR 2.612** — Relief from Judgment or Order
+  - Subrule (C)(1): Mistake, inadvertence, surprise, excusable neglect
+  - Subrule (C)(2): Newly discovered evidence
+  - Subrule (C)(3): Fraud, misrepresentation, misconduct
+  - Subrule (C)(4): Void judgment
+  - Subrule (C)(5): Satisfied, released, discharged
+  - Subrule (C)(6): Any other reason justifying relief
+- **MCR 2.613** — Harmless Error
+- **MCR 2.614** — Stay of Proceedings to Enforce Judgment
+- **MCR 2.615** — Disability of Judge
+- **MCR 2.616** — Satisfaction of Judgment
+
+### Subchapter 2.700 — Extraordinary Writs; Injunctions; Receivers
+
+- **MCR 2.701** — Injunctions
+  - Subrule (A): Availability
+  - Subrule (B): Procedure
+  - Subrule (C): Bond required
+- **MCR 2.702** — Receivers
+- **MCR 2.710** — Proceedings to Enforce Judgment; Garnishment
+  - Subrule (A): Available remedies
+  - Subrule (B): Periodic garnishment
+  - Subrule (C): Disclosure
+- **MCR 2.737** — Claim and Delivery
+- **MCR 2.738** — Ne Exeat
+
+---

@@ -1,0 +1,36 @@
+## Part I — General Provisions (MCR 7.100–7.104)
+
+- **MCR 7.101** — Definitions
+  - "Appellee" — party against whom appeal is taken
+  - "Appellant" — party taking appeal
+  - "Application for leave to appeal"
+  - "Brief"
+  - "Cross-appeal"
+  - "Delayed appeal"
+  - "Final judgment or order"
+  - "Interlocutory order"
+  - "Leave to appeal"
+  - "Motion"
+  - "Record"
+- **MCR 7.102** — General Rules
+  - Subrule (A): Construction
+  - Subrule (B): Harmless error — appellate court will not reverse unless error resulted in substantial harm
+  - Subrule (C): Computation of time
+  - Subrule (D): Enlargement of time
+  - Subrule (E): Motions — form and filing
+  - Subrule (F): Expedited proceedings
+- **MCR 7.103** — Jurisdiction of Court of Appeals
+  - Subrule (A)(1): Appeals of right from final judgments of circuit courts
+  - Subrule (A)(2): Appeals of right from probate courts
+  - Subrule (A)(3): Appeals from administrative agencies
+  - Subrule (A)(4): Criminal cases
+  - Subrule (B): Leave to appeal jurisdiction
+  - Subrule (C): Superintending control over lower courts
+  - Subrule (D): Original actions
+- **MCR 7.104** — Jurisdiction of Supreme Court
+  - Subrule (A): Leave to appeal from COA
+  - Subrule (B): Bypass of COA (direct appeal from circuit court)
+  - Subrule (C): Original jurisdiction
+  - Subrule (D): Superintending control
+
+---

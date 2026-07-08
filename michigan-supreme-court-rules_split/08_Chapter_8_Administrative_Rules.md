@@ -1,0 +1,45 @@
+## Chapter 8 — Administrative Rules
+
+- **MCR 8.001** — Applicability
+- **MCR 8.002** — Definitions
+- **MCR 8.101** — Trial Court Records
+- **MCR 8.102** — Case Inventory
+- **MCR 8.103** — Business Court
+- **MCR 8.104** — Judge Assigned to Cases
+- **MCR 8.105** — Clerk of the Court
+- **MCR 8.106** — Court Reporters and Recorders
+  - Subrule (A): Appointment
+  - Subrule (B): Duties
+  - Subrule (C): Fees
+- **MCR 8.107** — Courtroom Decorum
+- **MCR 8.108** — Court Sessions
+- **MCR 8.109** — Judicial Salaries; Travel Expenses
+- **MCR 8.110** — Chief Judge Rules
+  - Subrule (A): Authority
+  - Subrule (B): Duties and powers
+  - Subrule (C): Delegation
+  - Subrule (D): Local court rules
+- **MCR 8.111** — Assignment of Cases
+- **MCR 8.112** — Local Court Rules
+  - Subrule (A): Adoption
+  - Subrule (B): Content
+  - Subrule (C): Conflict with statewide rules
+  - Subrule (D): Publication
+- **MCR 8.113** — Court Schedules; Holidays
+- **MCR 8.115** — Courtroom Use of Electronic Devices
+- **MCR 8.116** — Processing of Traffic Cases
+- **MCR 8.117** — Veterans Treatment Courts
+- **MCR 8.119** — Court Records and Recording
+  - Subrule (A): Definitions
+  - Subrule (B): Maintenance and retention
+  - Subrule (C): Recording equipment
+  - Subrule (D): Transcripts
+  - Subrule (E): Public access to records
+  - Subrule (F): Exempt from disclosure
+  - Subrule (G): Sealing and redacting
+  - Subrule (H): Remote access
+- **MCR 8.120** — Trial Court Electronic-Filing and Service System Rules
+- **MCR 8.121** — Language Access
+- **MCR 8.122** — Trauma-Informed Practices
+
+---
