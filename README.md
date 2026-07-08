@@ -1,6 +1,10 @@
 # CourtRules
 
+**Document Automation & Template Repository for Michigan Legal System**
+
 A comprehensive Michigan and Federal court rules reference, multi-state case law guide, and **automated court document processor** that scans PDF/TXT files and populates templates for every judicial process in all Michigan jurisdictions.
+
+**🔗 Part of the Michigan Legal Knowledge Base - See complete integration in [Michigan-MCLA/MASTER-INDEX.md](https://github.com/fatcrapinmybutt/Michigan-MCLA/blob/main/MASTER-INDEX.md)**
 
 ---
 
@@ -48,6 +52,17 @@ python processor.py auto my_case.pdf michigan/coa/claim-of-appeal  # One-step
 ### Litigation Guides
 - [Litigating Higher Court Cases: Requirements and Strategy](litigating-higher-courts.md)
 - [Document Automation Guide: Procedural Instructions for All Jurisdictions](document-automation-guide.md)
+
+---
+
+## 🔗 Related Repositories
+
+This repository is part of a comprehensive Michigan Legal Knowledge Base:
+
+- **📖 [Michigan-MCLA](https://github.com/fatcrapinmybutt/Michigan-MCLA)** - Primary knowledge base with 60+ section catalogue and legal reference
+- **⚖️ [LitigationOS](https://github.com/fatcrapinmybutt/LitigationOS)** - Complete legal intelligence system with case examples and strategies
+- **⬆️ [MICHIGAN-HIGHER-COURTS](https://github.com/fatcrapinmybutt/MICHIGAN-HIGHER-COURTS)** - Higher court templates and appellate strategies
+- **📚 [michigancompiledlawsMBP](https://github.com/fatcrapinmybutt/michigancompiledlawsMBP)** - Complete MCL HTML archive (111MB)
 
 ---
 
